@@ -2,7 +2,6 @@ package br.com.generics.estruturasequencial;
 
 import javax.swing.*;
 
-
 public class ExpressoesAritmeticas {
 
     public static void main(String[] args) {
