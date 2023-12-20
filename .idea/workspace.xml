@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Variavel recendo pelo input!">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="inserido a conversão de string para char!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" afterDir="false" />
     </list>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703087000892</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="inserido a conversão de string para char!">
+      <created>1703087833879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703087833879</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +148,7 @@
     <MESSAGE value="Correção das variaveis!" />
     <MESSAGE value="Variavel recendo pelo nput!" />
     <MESSAGE value="Variavel recendo pelo input!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variavel recendo pelo input!" />
+    <MESSAGE value="inserido a conversão de string para char!" />
+    <option name="LAST_COMMIT_MESSAGE" value="inserido a conversão de string para char!" />
   </component>
 </project>

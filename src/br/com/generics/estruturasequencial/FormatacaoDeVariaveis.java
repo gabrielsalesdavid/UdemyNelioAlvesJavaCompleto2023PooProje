@@ -26,8 +26,8 @@ public class FormatacaoDeVariaveis {
         code = sc.nextInt();
 
         System.out.println("Digite a opcao para o sexo: F(Feminino) e M(Masculino)");
-        gender = sc.next().charAt(0);//Scanner pegando e convertendo o string para char, parametro zero é sempre
-                                     // a primeira letra que será digitada, não importa a quantidade de caracter escrito
+        gender = sc.next().charAt(0);//Scanner pegando e convertendo a string para char, parametro zero é sempre
+        // a primeira letra que será digitada, não importa a quantidade de caracter escrito
 
         System.out.println("Digite o valor do primeiro produto: ");
         price1 = sc.nextDouble();
