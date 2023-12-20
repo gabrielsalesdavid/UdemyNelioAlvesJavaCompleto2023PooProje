@@ -13,7 +13,7 @@ public class FormatacaoDeVariaveis {
 
         int age, code;
         char gender;
-        double price1, price2,  measure;
+        double price1, price2, measure;
 
         System.out.println("Digite o primeiro produto: ");
         product1 = sc.nextLine();
