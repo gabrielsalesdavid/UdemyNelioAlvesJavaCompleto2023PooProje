@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Correção das variaveis!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/DeclaracaoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/DeclaracaoVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Variavel recendo pelo nput!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703018872740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Variavel recendo pelo nput!">
+      <created>1703075582899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703075582899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +122,7 @@
     <MESSAGE value="Expressões aritiméticas um pouco diferente!!!" />
     <MESSAGE value="Declaração de Variaveis um pouco diferente!!!" />
     <MESSAGE value="Correção das variaveis!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção das variaveis!" />
+    <MESSAGE value="Variavel recendo pelo nput!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variavel recendo pelo nput!" />
   </component>
 </project>

@@ -17,6 +17,10 @@ public class DeclaracaoVariaveis {
 
         gender = Integer.parseInt(JOptionPane.showInputDialog("Digite a sua idade: "));
 
+        if (name.equals("Gabriel Sales David") || name.equals("gabriel sales david")) {
+
+        }
+
         JOptionPane.showMessageDialog(null, "Seu nome é: " + name + "Endereço: " + address +
                 ", sua altura é: " + height + ", sua idade: " + gender);
     }
