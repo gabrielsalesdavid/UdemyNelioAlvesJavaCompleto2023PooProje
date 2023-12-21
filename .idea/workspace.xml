@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Corrigindo alguns detalhes na logica de programação!">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Confirmando alguns detalhes na logica de programação!">
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703178256549</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Confirmando alguns detalhes na logica de programação!">
+      <created>1703182449667</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703182449667</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +223,7 @@
     <MESSAGE value="Corrigindo algun detales na na logica de programação!" />
     <MESSAGE value="Corrigindo alguns detales na logica de programação!" />
     <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo alguns detalhes na logica de programação!" />
+    <MESSAGE value="Confirmando alguns detalhes na logica de programação!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Confirmando alguns detalhes na logica de programação!" />
   </component>
 </project>

@@ -31,11 +31,8 @@ public class LogicaDeProgramacao {
                     noteDisc1 = sc.nextDouble();
                     noteBi1 = (noteDisc1 * 2) / 2;
                     if (noteBi1 == 7 || noteBi1 >= 7) {
-                        approved = 'Y';
-                        if (approved == 'Y') {
-                            System.out.println(name + ".\nA sua nota do bimestre e de : " + noteBi1 + ".\nDisciplina: "
-                                    + disc1 + ".\nVoce esta aprovado no primeiro bimestre!");
-                        }
+                        System.out.println(name + ".\nA sua nota do bimestre e de : " + noteBi1 + ".\nDisciplina: "
+                                + disc1 + ".\nVoce esta aprovado no primeiro bimestre!");
                     } else if (noteBi1 <= 6 || noteBi1 == 6) {
                         System.out.println(name + ".\nA sua nota do bimestre e de: " + noteBi1 + ".\nDisciplina: "
                                 + disc1 + ".\nVoce nao esta aprovado no primeiro bimestre" +
@@ -51,11 +48,8 @@ public class LogicaDeProgramacao {
                     noteDisc1 = sc.nextDouble();
                     noteBi2 = (noteDisc1 * 2) / 2;
                     if (noteBi2 >= 7 || noteBi2 == 7) {
-                        approved = 'Y';
-                        if (approved == 'Y') {
-                            System.out.println(name + ".\nA sua nota do bimestre e de: " + noteBi2 + ".\nDisciplina: "
-                                    + disc1 + ".\nVoce esta aprovadono no segundo bimestre!");
-                        }
+                        System.out.println(name + ".\nA sua nota do bimestre e de: " + noteBi2 + ".\nDisciplina: "
+                                + disc1 + ".\nVoce esta aprovadono no segundo bimestre!");
                     } else if (noteBi2 <= 6 || noteBi2 == 6) {
                         System.out.println(name + ".\nA sua nota do bimestre e de: " + noteBi2 + ".\nDisciplina: " +
                                 disc1 + ".\nVoce nao esta aprovado no segundo bimestre!" +
