@@ -50,7 +50,7 @@ public class LogicaDeProgramacao {
                     System.out.println("Digite a nota da disciplina conrespondante: ");
                     noteDisc1 = sc.nextDouble();
                     noteBi2 = (noteDisc1 * 2) / 2;
-                    if (noteBi2>= 7 || noteBi2 == 7) {
+                    if (noteBi2 >= 7 || noteBi2 == 7) {
                         approved = 'Y';
                         if (approved == 'Y') {
                             System.out.println(name + ".\nA sua nota do bimestre e de: " + noteBi2 + ".\nDisciplina: "
@@ -63,9 +63,7 @@ public class LogicaDeProgramacao {
                     }
                 }
             }
-            if (pergunt.equals("Primeiro Semestre") || pergunt.equals("primeiro semestre")) {
-                System.out.println("Voce esta no primeiro semestre!");
-            }
         }
+        sc.close();
     }
 }
