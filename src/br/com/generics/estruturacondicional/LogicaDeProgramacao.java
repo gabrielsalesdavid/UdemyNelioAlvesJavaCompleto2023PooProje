@@ -31,30 +31,50 @@ public class LogicaDeProgramacao {
                     System.out.println("Digite a nota da primeira disciplina: ");
                     noteDisc1 = sc.nextDouble();
                     noteBi1 = (noteDisc1 * 2) / 2;
-                    if (noteBi1 >= 7) {
+                    if (noteBi1 >= 7 && noteBi1 == 7) {
                         approved = 'Y';
                         if (approved == 'Y') {
                             System.out.println(name + ".\n A sua nota do bimestres e de: " + noteBi1 +
-                                    ".\n Disciplina: " + disc1 + ".\n Voce esta aprovado no primeiro bimestre: " + approved);
+                                    ".\n Disciplina: " + disc1 + ".\n Voce esta " + approved + " aprovado no primeiro bimestre. ");
+                        }
+                    } else if (noteBi1 <= 7) {
+                        noteBi1 = (noteDisc1 * 2) / 2;
+                        approved = 'N';
+                        if (approved == 'N') {
+                            System.out.println(name + ".\n A sua nota do bimestre e de: " + noteBi1 +
+                                    ".\n  Disciplina: " + disc1 + ".\n Voce esta " + approved + " aprovado no primeiro bimestre. "
+                                    + "\n Voce esta de DP/Recuperacao no primeiro bimestre!");
+                        }
+                    }
+                }
+                if (pergunt.equals("Segundo Bimestre") || pergunt.equals("segundo bimestre")) {
+                    System.out.println("Digite a primeira disciplina :");
+                    disc1 = sc.nextLine();
+                    if (disc1.equals("Matematica Aplicada")) {
+                        System.out.println("Digite a nota da primeira disciplina: ");
+                        noteDisc1 = sc.nextDouble();
+                        noteBi2 = (noteDisc1 * 2) / 2;
+                        if (noteBi2 >= 7 || noteBi2 == 7) {
+                            approved = 'Y';
+                            if (approved == 'Y') {
+                                System.out.println(name + ".\n A sua nota do bimestre e de: " + noteBi2 +
+                                        ".\n Disciplina: " + disc1 + ".\n Voce esta " + approved +
+                                        " aprovado no segundo semestre bimestre. ");
+                            }
+                        } else if (noteBi2 <= 7) {
+                            noteBi2 = (noteDisc1 * 2) / 2;
+                            approved = 'N';
+                            if (approved == 'N') {
+                                System.out.println(name + ".\n A sua nota do bimestre e de: " + noteBi2 +
+                                        ".\n Disciplina: " + disc1 + ".\n voce esta " + approved +
+                                        " aprovado no segundo bimestre. ");
+                            }
                         }
                     }
                 }
             }
-            if (pergunt.equals("Segundo Bimestre") || pergunt.equals("segundo bimestre")) {
-                System.out.println("Digite a primeira disciplina :");
-                disc1 = sc.nextLine();
-                if (disc1.equals("Matematica Aplicada")) {
-                    System.out.println("Digite a nota da primeira disciplina: ");
-                    noteDisc1 = sc.nextDouble();
-                    noteBi2 = (noteDisc1 * 2) / 2;
-                    if (noteBi2 >= 7) {
-                        approved = 'Y';
-                        if (approved == 'Y') {
-                            System.out.println(name + ".\n A sua nota do bimestre e de: " + noteBi2 +
-                                    ".\n Disciplina: " + disc1 + ".\n Voce esta aprovado no segundo semestre bimestre: " + approved);
-                        }
-                    }
-                }
+            if(pergunt.equals("Primeiro Semestre") || pergunt.equals("primeiro semestre")) {
+                System.out.println("Voce esta no primeiro semestre");
             }
         }
 

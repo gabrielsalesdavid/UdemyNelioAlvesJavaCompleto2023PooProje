@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="implementando mais na logica de programação!">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Corrigindo algun detales na na logica de programação!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
     </list>
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -126,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703165792037</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Corrigindo algun detales na na logica de programação!">
+      <created>1703166850104</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703166850104</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Corrigindo algun detales na na logica de programação!">
+      <created>1703166914166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703166914166</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +194,8 @@
     <MESSAGE value="inserido a conversão de string para char!" />
     <MESSAGE value="Logica de programação!" />
     <MESSAGE value="implementando mais na logica de programação!" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementando mais na logica de programação!" />
+    <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
+    <MESSAGE value="Corrigindo algun detales na na logica de programação!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo algun detales na na logica de programação!" />
   </component>
 </project>
