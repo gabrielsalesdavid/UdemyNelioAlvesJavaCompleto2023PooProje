@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="inserido a conversão de string para char!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Logica de programação!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703096740080</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Logica de programação!">
+      <created>1703163926916</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703163926916</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Logica de programação!">
+      <created>1703163941789</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703163941789</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +170,7 @@
     <MESSAGE value="Variavel recendo pelo nput!" />
     <MESSAGE value="Variavel recendo pelo input!" />
     <MESSAGE value="inserido a conversão de string para char!" />
-    <option name="LAST_COMMIT_MESSAGE" value="inserido a conversão de string para char!" />
+    <MESSAGE value="Logica de programação!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logica de programação!" />
   </component>
 </project>

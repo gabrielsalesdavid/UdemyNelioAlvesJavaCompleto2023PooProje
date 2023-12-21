@@ -24,21 +24,32 @@ public class LogicaDeProgramacao {
             System.out.println("Digite o bimestre: ");
             pergunt = sc.nextLine();
             if (pergunt.equals("Primeiro Bimestre") || pergunt.equals("primeiro bimestre")) {
-                System.out.println("Digite a primeira disciplina: ");
-                disc1 = sc.nextLine();
-                if (disc1.equals("Matematica Aplicada") || disc1.equals("matematica aplicada")) {
-                    System.out.println("Digite a nota da primeira disciplina: ");
-                    noteDisc1 = sc.nextDouble();
-                    noteBi = (noteDisc1 * 2) / 2;
-                    noteSe = (noteDisc1 * 6) / 6;
-
-                    if (noteBi >= 7) {
-                        app = true;
-                        approved = 'Y';
-                        if (approved == 'Y') {
-                            System.out.println(name + ". A sua nota do bimestres e de: " + noteBi +
-                                    ". Voce esta aprovado no primeiro bimestre: " + approved);
+                app = true;
+                if (app == true) {
+                    System.out.println("Digite a primeira disciplina: ");
+                    disc1 = sc.nextLine();
+                    if (disc1.equals("Matematica Aplicada") || disc1.equals("matematica aplicada")) {
+                        System.out.println("Digite a nota da primeira disciplina: ");
+                        noteDisc1 = sc.nextDouble();
+                        noteBi = (noteDisc1 * 2) / 2;
+                        if (noteBi >= 7) {
+                            approved = 'Y';
+                            if (approved == 'Y') {
+                                System.out.println(name + ". A sua nota do bimestres e de: " + noteBi +
+                                        ". Voce esta aprovado no primeiro bimestre: " + approved);
+                            }
                         }
+                    }
+                }
+            } else if (pergunt.equals("Segundo Bimestre") || pergunt.equals("segundo bimestre")) {
+                System.out.println("Digite a nota da primeira disciplina: ");
+                noteDisc1 = sc.nextDouble();
+                noteBi = (noteDisc1 * 2) / 2;
+                if (noteBi >= 7) {
+                    approved = 'Y';
+                    if (approved == 'Y') {
+                        System.out.println(name + ". A sua nota do bimestre e de: " + noteBi +
+                                ". Voce esta aprovado no segundo semestre bimestre: " + approved);
                     }
                 }
             }
