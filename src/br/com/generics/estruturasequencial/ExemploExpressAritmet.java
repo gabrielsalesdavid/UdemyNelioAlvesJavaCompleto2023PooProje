@@ -18,6 +18,7 @@ public class ExemploExpressAritmet {
         result4 = 60 / (number2 + number1) * 4;
         result5 = 60 / ((number2 + number1) * 4);
         //A precedencia ,atematica o parentes é que prevalece. Primeiro os parentes internos para os externos!
+
         /*
         SysOut:
         System.out.println(result1);
