@@ -7,7 +7,7 @@ public class LogicaDeProgramacao {
     public static void main(String[] args) {
 
         /*
-        Scanner é um tipo de variavel que recebe a entrada que está sendo digitada pelo user.
+        Scanner é um tipo de class/objeto que recebe a entrada que está sendo digitada pelo user.
         Já sc é o nome da variavel.
         (System.in) é a entrada de dados do system
          */

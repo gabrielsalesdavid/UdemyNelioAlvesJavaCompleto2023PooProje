@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="exemp1 de dados em java cast">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FuncMatem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExempJavaCast1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExempJavaCast1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConcatVariavel.executor": "Run",
+    "Application.ExempJavaCast1.executor": "Run",
     "Application.ExempJavaCasting.executor": "Run",
     "Application.ExemploExpressAritmet.executor": "Run",
     "Application.FormatacaoDeVariaveis.executor": "Run",
@@ -57,20 +62,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExempJavaCast1">
-    <configuration name="ConcatVariavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ConcatVariavel" />
-      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.generics.estruturasequencial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FuncMatem">
     <configuration name="ExempJavaCast1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ExempJavaCast1" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -110,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FuncMatem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.FuncMatem" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.estruturasequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="procJavaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.procJavaCasting" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -125,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuncMatem" />
         <item itemvalue="Application.ExempJavaCast1" />
         <item itemvalue="Application.ExempJavaCasting" />
         <item itemvalue="Application.procJavaCasting" />
         <item itemvalue="Application.FormatacaoDeVariaveis" />
-        <item itemvalue="Application.ConcatVariavel" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704224060457</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="exemp1 de dados em java cast">
+      <option name="closed" value="true" />
+      <created>1704224178223</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1704224178223</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -8,7 +8,7 @@ public class FormatacaoDeVariaveis {
 
     public static void main(String[] args) {
 
-        //Scanner é uma class. E sc é o nome da class
+        //Scanner é uma class/objeto. E sc é o nome da class
         Scanner sc = new Scanner(System.in);
         //String, int, double, boolean, float e char é o tipo de variavel.
         String product1, product2;
