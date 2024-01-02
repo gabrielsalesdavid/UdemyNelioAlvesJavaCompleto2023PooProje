@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Exemple of arithmetic expressions">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploOperdMod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploExpressAritmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploExpressAritmet.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Exemple of oparetor MOD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploOperdMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploOperdMod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +310,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704216768021</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Exemple of oparetor MOD">
+      <option name="closed" value="true" />
+      <created>1704217235875</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1704217235875</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Exemple of oparetor MOD">
+      <option name="closed" value="true" />
+      <created>1704217286345</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1704217286345</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +387,8 @@
     <MESSAGE value="Fixing the comment" />
     <MESSAGE value="Fixing the public class" />
     <MESSAGE value="Exemple of arithmetic expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemple of arithmetic expressions" />
+    <MESSAGE value="Exemple of oparetor MOD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemple of oparetor MOD" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
