@@ -8,13 +8,19 @@ public class FormatacaoDeVariaveis {
 
     public static void main(String[] args) {
 
+        //Scanner é uma class. E sc é o nome da class
         Scanner sc = new Scanner(System.in);
+        //String, int, double, boolean, float e char é o tipo de variavel.
         String product1, product2;
 
         int age, code;
         char gender;
         double price1, price2, measure;
 
+        /*
+        SysOut é a saida das infor para user
+        nextLine/Int/Double, é a coleta de dados para a variavel declarada, que neste caso é o String/Int/Double
+         */
         System.out.println("Digite o primeiro produto: ");
         product1 = sc.nextLine();
         System.out.println("Digite o segundo produto: ");
@@ -42,7 +48,9 @@ public class FormatacaoDeVariaveis {
         } else if (gender == 'M') {
             gender = 'M';
         }
-
+        /*
+        SysOutF é uma saida formatada em Java.
+         */
         System.out.printf("Products: \n" +
                 product1 + ", which price is $ " + price1 + "\n" + product2 + ", which price is $ " + price2);
 
