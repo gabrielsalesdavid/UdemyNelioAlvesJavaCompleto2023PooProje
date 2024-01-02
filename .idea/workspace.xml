@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Corrigindo alguns detalhes na logica de programação!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasrepetitivas/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Primary program with coment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZlDX0Nk3WE9SMc12CSyusVdcPJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LogicaDeProgramacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturacondicional.LogicaDeProgramacao" />
@@ -214,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Primary program with coment">
+      <option name="closed" value="true" />
+      <created>1704214667353</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704214667353</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +275,8 @@
     <MESSAGE value="Corrigindo alguns detales na logica de programação!" />
     <MESSAGE value="Confirmando alguns detalhes na logica de programação!" />
     <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo alguns detalhes na logica de programação!" />
+    <MESSAGE value="Primary program with coment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primary program with coment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
