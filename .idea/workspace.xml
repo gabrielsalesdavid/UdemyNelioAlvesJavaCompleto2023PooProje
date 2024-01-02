@@ -57,7 +57,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.procJavaCasting">
+  <component name="RunManager" selected="Application.ExempJavaCasting">
     <configuration name="ConcatVariavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ConcatVariavel" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploExpressAritmet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ExemploExpressAritmet" />
+    <configuration name="ExempJavaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ExempJavaCasting" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExempJavaCasting" />
         <item itemvalue="Application.procJavaCasting" />
         <item itemvalue="Application.FormatacaoDeVariaveis" />
         <item itemvalue="Application.ConcatVariavel" />
         <item itemvalue="Application.VariavComPontoFlutuante" />
-        <item itemvalue="Application.ExemploExpressAritmet" />
       </list>
     </recent_temporary>
   </component>
