@@ -13,7 +13,7 @@ public class ExempJavaCast1 {
         b = 2;
 
         //variavel double recebendo o nome do tipo da variavel e divide por uma outra.
-        resultado = a / b;
+        resultado = (double) a / b;
 
         //saida de dados da variavel double
         System.out.println(resultado);
