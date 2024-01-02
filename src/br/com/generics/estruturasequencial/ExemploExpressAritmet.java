@@ -17,7 +17,6 @@ public class ExemploExpressAritmet {
         result3 = (number2 + number1) * 4;
         result4 = 60 / (number2 + number1) * 4;
         result5 = 60 / ((number2 + number1) * 4);
-
         /*
         SysOut:
         System.out.println(result1);
