@@ -5,6 +5,11 @@ import javax.swing.*;
 public class ExpressoesAritmeticas {
 
     public static void main(String[] args) {
+
+        /*
+        int, String, double, float e boolean sao os tipos de variaveis em java.
+        diante deles, sao os nomes das variavis e o que ela esta recebendo.
+         */
         int calc1, calc2, calc3, expres;
         float result;
 
@@ -13,6 +18,10 @@ public class ExpressoesAritmeticas {
                 "Digite o numero 3(três) para a expressão soma: \n" +
                 "Digite o numero 4(quatro) para a expressão subtração: "));
 
+        /*
+        if compara objeto/variaveis para que seja feita a resposta do que e esperado.
+        JOption.showMessDia e uma caixa de dialogo que é emitida para o user!
+         */
         if (expres == 1) {
             calc1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro valor a ser calculado: "));
             calc2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo valor a ser calculado: "));
