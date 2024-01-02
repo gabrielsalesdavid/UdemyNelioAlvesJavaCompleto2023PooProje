@@ -51,6 +51,7 @@ public class FormatacaoDeVariaveis {
         /*
         SysOutF é uma saida formatada em Java.
         \n entre as aspas dupla, é uma quebra de linha.
+        o sinal de soma e a concatenação entre variaveis/objetos. Isso na saida de informações ao user
          */
         System.out.printf("Products: \n" +
                 product1 + ", which price is $ " + price1 + "\n" + product2 + ", which price is $ " + price2);
