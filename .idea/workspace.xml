@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Adding comments">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/VariavComPontoFlutuante.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="floating point variable">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ConcatVariavel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConcatVariavel.executor": "Run",
     "Application.ExemploExpressAritmet.executor": "Run",
     "Application.LogicaDeProgramacao.executor": "Run",
     "Application.VariavComPontoFlutuante.executor": "Run",
@@ -54,7 +55,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VariavComPontoFlutuante">
+  <component name="RunManager" selected="Application.ConcatVariavel">
+    <configuration name="ConcatVariavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ConcatVariavel" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.estruturasequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExemploExpressAritmet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ExemploExpressAritmet" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -96,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcatVariavel" />
         <item itemvalue="Application.VariavComPontoFlutuante" />
         <item itemvalue="Application.ExemploExpressAritmet" />
         <item itemvalue="Application.LogicaDeProgramacao" />
@@ -404,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704220706995</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="floating point variable">
+      <option name="closed" value="true" />
+      <created>1704221499484</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1704221499484</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +490,8 @@
     <MESSAGE value="Exemple of arithmetic expressions" />
     <MESSAGE value="Exemple of oparetor MOD" />
     <MESSAGE value="Adding comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding comments" />
+    <MESSAGE value="floating point variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="floating point variable" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
