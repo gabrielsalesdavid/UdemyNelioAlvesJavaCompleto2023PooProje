@@ -43,6 +43,12 @@ public class FormatacaoDeVariaveis {
         System.out.println("Digite a medicao: ");
         measure = sc.nextDouble();
 
+        /*
+        if compara variavel/objeto
+        == o sinal de igualdade dupla, siginifica a igualdade entre um objeto/variavel
+        = ja osinal de igual, significa que um objeto/variavel esta recebendo algo para a declaração.
+        += o sinal de soma mais a de igualdade, significa o objeto/variavel esta recebendo ele mesmo para calc
+         */
         if (gender == 'F') {
             gender = 'F';
         } else if (gender == 'M') {
@@ -52,6 +58,7 @@ public class FormatacaoDeVariaveis {
         SysOutF é uma saida formatada em Java.
         \n entre as aspas dupla, é uma quebra de linha.
         o sinal de soma e a concatenação entre variaveis/objetos. Isso na saida de informações ao user
+        2./3./8.f seria a quantidade de casas decimais que deseja na saida dos dados.
          */
         System.out.printf("Products: \n" +
                 product1 + ", which price is $ " + price1 + "\n" + product2 + ", which price is $ " + price2);
@@ -66,6 +73,7 @@ public class FormatacaoDeVariaveis {
         System.out.printf("Measure wich eight decimal places: %.8f%n", measure);
         System.out.printf("Rouded (three decimal places): %.3f%n", measure);
 
+        //locale é uma class/method especific para formatar os dados com o ponto entre as casas decimais.
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f%n", measure);
     }
