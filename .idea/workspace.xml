@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Confirmando alguns detalhes na logica de programação!">
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Corrigindo alguns detalhes na logica de programação!">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasrepetitivas/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2ZlDX0Nk3WE9SMc12CSyusVdcPJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,12 +45,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LogicaDeProgramacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturacondicional.LogicaDeProgramacao" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LogicaDeProgramacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-f644763e9732-27d99999" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -167,16 +200,34 @@
       <option name="project" value="LOCAL" />
       <updated>1703182449667</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Corrigindo alguns detalhes na logica de programação!">
+      <created>1703183011992</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703183011992</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Corrigindo alguns detalhes na logica de programação!">
+      <created>1703183032471</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703183032471</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="146c1402-dc62-4c06-b251-8eef1d9df872" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="146c1402-dc62-4c06-b251-8eef1d9df872">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -195,6 +246,7 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
@@ -203,11 +255,6 @@
             <State />
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="146c1402-dc62-4c06-b251-8eef1d9df872" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -222,8 +269,13 @@
     <MESSAGE value="implementando mais na logica de programação!" />
     <MESSAGE value="Corrigindo algun detales na na logica de programação!" />
     <MESSAGE value="Corrigindo alguns detales na logica de programação!" />
-    <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
     <MESSAGE value="Confirmando alguns detalhes na logica de programação!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Confirmando alguns detalhes na logica de programação!" />
+    <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo alguns detalhes na logica de programação!" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.generics.estruturacondicional.*</FILTER>
+    </SUITE>
   </component>
 </project>
