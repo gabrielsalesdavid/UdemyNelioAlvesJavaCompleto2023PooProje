@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Adding comments">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ProcJavaCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="exemp de dados em java cast" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConcatVariavel.executor": "Run",
+    "Application.ExempJavaCasting.executor": "Run",
     "Application.ExemploExpressAritmet.executor": "Run",
     "Application.FormatacaoDeVariaveis.executor": "Run",
     "Application.LogicaDeProgramacao.executor": "Run",
@@ -459,7 +457,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704222761609</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="proc em java cast">
+      <option name="closed" value="true" />
+      <created>1704223481658</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1704223481658</updated>
+    </task>
+    <task id="LOCAL-00043" summary="exemp de dados em java cast">
+      <option name="closed" value="true" />
+      <created>1704223760946</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1704223760947</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +538,9 @@
     <MESSAGE value="floating point variable" />
     <MESSAGE value="Concatenation of variables" />
     <MESSAGE value="Adding comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding comments" />
+    <MESSAGE value="proc em java cast" />
+    <MESSAGE value="exemp de dados em java cast" />
+    <option name="LAST_COMMIT_MESSAGE" value="exemp de dados em java cast" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
