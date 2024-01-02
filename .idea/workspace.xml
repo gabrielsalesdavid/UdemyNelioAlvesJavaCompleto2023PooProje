@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Fixing the public class">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploExpressAritmet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Exemple of arithmetic expressions">
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploExpressAritmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExemploExpressAritmet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExemploExpressAritmet.executor": "Run",
     "Application.LogicaDeProgramacao.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -276,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704215585507</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Exemple of arithmetic expressions">
+      <option name="closed" value="true" />
+      <created>1704216477680</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704216477680</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +344,8 @@
     <MESSAGE value="Primary program with coment" />
     <MESSAGE value="Fixing the comment" />
     <MESSAGE value="Fixing the public class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing the public class" />
+    <MESSAGE value="Exemple of arithmetic expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemple of arithmetic expressions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

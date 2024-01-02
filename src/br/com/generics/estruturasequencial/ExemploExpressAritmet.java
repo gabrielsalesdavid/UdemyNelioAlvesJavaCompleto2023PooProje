@@ -1,5 +1,7 @@
 package br.com.generics.estruturasequencial;
 
+import javax.swing.*;
+
 public class ExemploExpressAritmet {
 
     public static void main(String[] args) {
@@ -16,10 +18,21 @@ public class ExemploExpressAritmet {
         result4 = 60 / (number2 + number1) * 4;
         result5 = 60 / ((number2 + number1) * 4);
 
+        /*
+        SysOut:
+
         System.out.println(result1);
         System.out.println(result2);
         System.out.println(result3);
         System.out.println(result4);
         System.out.println(result5);
+
+        JOptionPane:
+        */
+        JOptionPane.showMessageDialog(null, result1);
+        JOptionPane.showMessageDialog(null, result2);
+        JOptionPane.showMessageDialog(null, result3);
+        JOptionPane.showMessageDialog(null, result4);
+        JOptionPane.showMessageDialog(null, result5);
     }
 }
