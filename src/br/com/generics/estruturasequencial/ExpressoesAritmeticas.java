@@ -21,6 +21,7 @@ public class ExpressoesAritmeticas {
         /*
         if compara objeto/variaveis para que seja feita a resposta do que e esperado.
         JOption.showMessDia e uma caixa de dialogo que é emitida para o user!
+        integer.parseInt passa/converte uma string para inteiro
          */
         if (expres == 1) {
             calc1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro valor a ser calculado: "));

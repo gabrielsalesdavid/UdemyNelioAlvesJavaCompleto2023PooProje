@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Adding comments">
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/FormatacaoDeVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExpressoesAritmeticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasequencial/ExpressoesAritmeticas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,7 +364,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704219956973</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Adding comments">
+      <option name="closed" value="true" />
+      <created>1704220343084</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1704220343084</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Adding comments">
+      <option name="closed" value="true" />
+      <created>1704220538738</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1704220538738</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
