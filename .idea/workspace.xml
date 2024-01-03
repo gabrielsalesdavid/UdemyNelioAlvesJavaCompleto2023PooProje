@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Funcao matematica em java" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Funcao matematica em java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConcatVariavel.executor": "Run",
-    "Application.ExempJavaCast1.executor": "Run",
-    "Application.ExempJavaCasting.executor": "Run",
-    "Application.ExemploExpressAritmet.executor": "Run",
-    "Application.FormatacaoDeVariaveis.executor": "Run",
-    "Application.FuncMatem.executor": "Run",
-    "Application.LogicaDeProgramacao.executor": "Run",
-    "Application.VariavComPontoFlutuante.executor": "Run",
-    "Application.procJavaCasting.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConcatVariavel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExempJavaCast1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExempJavaCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploExpressAritmet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormatacaoDeVariaveis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncMatem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicaDeProgramacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariavComPontoFlutuante.executor&quot;: &quot;Run&quot;,
+    &quot;Application.procJavaCasting.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.FuncMatem">
     <configuration name="ExempJavaCast1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ExempJavaCast1" />
@@ -499,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704229029990</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Funcao matematica em java">
+      <option name="closed" value="true" />
+      <created>1704229321692</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1704229321692</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
