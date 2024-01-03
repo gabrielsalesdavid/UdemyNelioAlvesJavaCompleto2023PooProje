@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Exemplos de estrutura condicional!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/OperAtribCumul.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Operadores de atribuicao cumulativa em java">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/SwitchCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -282,14 +282,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00027" summary="Exemple of arithmetic expressions">
-      <option name="closed" value="true" />
-      <created>1704216710382</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1704216710382</updated>
-    </task>
     <task id="LOCAL-00028" summary="Exemple of arithmetic expressions">
       <option name="closed" value="true" />
       <created>1704216768021</created>
@@ -530,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704294093779</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Operadores de atribuicao cumulativa em java">
+      <option name="closed" value="true" />
+      <created>1704296254287</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1704296254288</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -575,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Correção das variaveis!" />
     <MESSAGE value="Variavel recendo pelo nput!" />
     <MESSAGE value="Variavel recendo pelo input!" />
     <MESSAGE value="inserido a conversão de string para char!" />
@@ -600,7 +599,8 @@
     <MESSAGE value="expressoes logicas" />
     <MESSAGE value="corrigindo os comntarios" />
     <MESSAGE value="Exemplos de estrutura condicional!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplos de estrutura condicional!" />
+    <MESSAGE value="Operadores de atribuicao cumulativa em java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operadores de atribuicao cumulativa em java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
