@@ -36,10 +36,10 @@ public class LogicaDeProgramacao {
         univer = sc.nextLine();
 
         /*
-        if seria uma comparacao entre um objeto/variavel.
+        if seria uma estrutura(simples) de controle entre um objeto/variavel.
         Sendo que tendo a resposta adequada a logica a resposta é emitida.
         euqals, é um objeto especifico que compara os dados inseridos com o desejados.
-        else if, seria uma outra comparacao caso a anterior nao seja o esperado.
+        else if(composta), seria uma outra comparacao caso a anterior nao seja o esperado.
         sc.close, finaliza o servico da variavel.
          */
         if (univer.equals("Cruzeiro do Sul") || univer.equals("cruzeiro do sul")) {
