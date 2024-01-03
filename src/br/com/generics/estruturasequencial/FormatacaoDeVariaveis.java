@@ -44,7 +44,7 @@ public class FormatacaoDeVariaveis {
         measure = sc.nextDouble();
 
         /*
-        if compara variavel/objeto
+        if seria uma estrutura(simples) de controle variavel/objeto
         == o sinal de igualdade dupla, siginifica a igualdade entre um objeto/variavel
         = ja osinal de igual, significa que um objeto/variavel esta recebendo algo para a declaração.
         += o sinal de soma mais a de igualdade, significa o objeto/variavel esta recebendo ele mesmo para calc
