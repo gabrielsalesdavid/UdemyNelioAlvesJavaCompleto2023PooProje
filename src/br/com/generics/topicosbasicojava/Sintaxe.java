@@ -8,21 +8,33 @@ public class Sintaxe {
 
         Scanner sc = new Scanner(System.in);
 
-        int n1, n2, n3;
+        int n1, n2, n3, higher;
 
         System.out.println("Enter three numbers: ");
         n1 = sc.nextInt();
         n2 = sc.nextInt();
         n3 = sc.nextInt();
 
-        if (n1 > n2 && n1 > n3) {
-            System.out.println("Higher = " + n1);
-        } else if(n2 > n3) {
-            System.out.println("Higher = " + n2);
-        } else {
-            System.out.println("Hgher = " + n3);
-        }
+        higher = max(n1, n2, n3);
+
+        showResult(higher);
 
         sc.close();
+    }
+
+    public static int max(int a, int b, int c) {
+        int aux;
+        if (a > b && a > c) {
+            aux = a;
+        } else if (b > c) {
+            aux = b;
+        } else {
+            aux = c;
+        }
+        return aux;
+    }
+
+    public static void showResult(int value) {
+        System.out.println("Higher = " + value);
     }
 }

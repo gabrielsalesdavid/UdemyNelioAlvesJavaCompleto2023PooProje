@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Funcao para String!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/Sintaxe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Funcao(Sintax)!">
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/Sintaxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/Sintaxe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,14 +285,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00039" summary="floating point variable">
-      <option name="closed" value="true" />
-      <created>1704221499484</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1704221499484</updated>
-    </task>
     <task id="LOCAL-00040" summary="Concatenation of variables">
       <option name="closed" value="true" />
       <created>1704222597140</created>
@@ -534,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704308799876</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Funcao(Sintax)!">
+      <option name="closed" value="true" />
+      <created>1704311087873</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1704311087888</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -579,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Primary program with coment" />
     <MESSAGE value="Fixing the comment" />
     <MESSAGE value="Fixing the public class" />
     <MESSAGE value="Exemple of arithmetic expressions" />
@@ -604,7 +602,8 @@
     <MESSAGE value="Do While!" />
     <MESSAGE value="Operador bitwise" />
     <MESSAGE value="Funcao para String!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funcao para String!" />
+    <MESSAGE value="Funcao(Sintax)!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funcao(Sintax)!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
