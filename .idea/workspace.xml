@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Do While!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/OperBitw.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Operador bitwise">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/FuncParString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -285,14 +285,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00037" summary="Adding comments">
-      <option name="closed" value="true" />
-      <created>1704220538738</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1704220538738</updated>
-    </task>
     <task id="LOCAL-00038" summary="Adding comments">
       <option name="closed" value="true" />
       <created>1704220706995</created>
@@ -533,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704305312709</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Operador bitwise">
+      <option name="closed" value="true" />
+      <created>1704307112228</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1704307112228</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -578,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Confirmando alguns detalhes na logica de programação!" />
     <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
     <MESSAGE value="Primary program with coment" />
     <MESSAGE value="Fixing the comment" />
@@ -603,7 +602,8 @@
     <MESSAGE value="While com atribuicao acumulativa!" />
     <MESSAGE value="For com atribuicao acumulativa!" />
     <MESSAGE value="Do While!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do While!" />
+    <MESSAGE value="Operador bitwise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operador bitwise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
