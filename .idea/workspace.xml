@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="expressao condicional ternaria em java">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/EscopInicia.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Inicializacao e escopo no method vazio!">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturasrepetitivas/Enquant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturasrepetitivas/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,14 +283,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00031" summary="Adding comments">
-      <option name="closed" value="true" />
-      <created>1704219148959</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1704219148959</updated>
-    </task>
     <task id="LOCAL-00032" summary="Adding comments">
       <option name="closed" value="true" />
       <created>1704219449900</created>
@@ -529,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704297601281</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Inicializacao e escopo no method vazio!">
+      <option name="closed" value="true" />
+      <created>1704298186726</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1704298186726</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -574,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inserido a conversão de string para char!" />
     <MESSAGE value="Logica de programação!" />
     <MESSAGE value="implementando mais na logica de programação!" />
     <MESSAGE value="Corrigindo algun detales na na logica de programação!" />
@@ -599,7 +600,8 @@
     <MESSAGE value="Operadores de atribuicao cumulativa em java" />
     <MESSAGE value="Operadores de atribuicao cumulativa em java com switch case" />
     <MESSAGE value="expressao condicional ternaria em java" />
-    <option name="LAST_COMMIT_MESSAGE" value="expressao condicional ternaria em java" />
+    <MESSAGE value="Inicializacao e escopo no method vazio!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicializacao e escopo no method vazio!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
