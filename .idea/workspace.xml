@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="corrigindo os comntarios">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/ExempEstrutCondi.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Exemplos de estrutura condicional!">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/OperAtribCumul.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +55,16 @@
     "Application.FormatacaoDeVariaveis.executor": "Run",
     "Application.FuncMatem.executor": "Run",
     "Application.LogicaDeProgramacao.executor": "Run",
+    "Application.OperAtibCumul.executor": "Run",
     "Application.VariavComPontoFlutuante.executor": "Run",
     "Application.procJavaCasting.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExempEstrutCondi">
+  <component name="RunManager" selected="Application.OperAtibCumul">
     <configuration name="ExempEstrutCondi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturacondicional.ExempEstrutCondi" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -102,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExempJavaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.ExempJavaCasting" />
-      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.generics.estruturasequencial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FuncMatem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.FuncMatem" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -128,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperAtibCumul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturacondicional.OperAtibCumul" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperAtibCumul" />
         <item itemvalue="Application.ExempEstrutCondi" />
         <item itemvalue="Application.ExempExpressLogic" />
         <item itemvalue="Application.FuncMatem" />
         <item itemvalue="Application.ExempJavaCast1" />
-        <item itemvalue="Application.ExempJavaCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -279,14 +281,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Exemple of arithmetic expressions">
-      <option name="closed" value="true" />
-      <created>1704216669551</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1704216669551</updated>
     </task>
     <task id="LOCAL-00027" summary="Exemple of arithmetic expressions">
       <option name="closed" value="true" />
@@ -528,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704289822520</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Exemplos de estrutura condicional!">
+      <option name="closed" value="true" />
+      <created>1704294093779</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1704294093779</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -573,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Declaração de Variaveis um pouco diferente!!!" />
     <MESSAGE value="Correção das variaveis!" />
     <MESSAGE value="Variavel recendo pelo nput!" />
     <MESSAGE value="Variavel recendo pelo input!" />
@@ -598,7 +599,8 @@
     <MESSAGE value="Funcao matematica em java" />
     <MESSAGE value="expressoes logicas" />
     <MESSAGE value="corrigindo os comntarios" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrigindo os comntarios" />
+    <MESSAGE value="Exemplos de estrutura condicional!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplos de estrutura condicional!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
