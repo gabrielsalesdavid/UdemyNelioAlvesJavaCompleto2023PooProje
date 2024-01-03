@@ -32,7 +32,11 @@ public class TresAtribu {
         p = (y.a + y.b + y.c) / 2.0;
         areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
 
-
+        if (areaX > areaY) {
+            System.out.println("Larger area: X ");
+        } else {
+            System.out.println("Larger area: Y ");
+        }
 
         sc.close();
     }
