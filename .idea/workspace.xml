@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="expressoes logicas">
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="corrigindo os comntarios">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/ExempEstrutCondi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConcatVariavel.executor": "Run",
+    "Application.ExempEstrutCondi.executor": "Run",
     "Application.ExempExpressLogic.executor": "Run",
     "Application.ExempJavaCast1.executor": "Run",
     "Application.ExempJavaCasting.executor": "Run",
@@ -60,7 +62,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExempExpressLogic">
+  <component name="RunManager" selected="Application.ExempEstrutCondi">
+    <configuration name="ExempEstrutCondi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturacondicional.ExempEstrutCondi" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.estruturacondicional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExempExpressLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturacondicional.ExempExpressLogic" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -113,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="procJavaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasequencial.procJavaCasting" />
-      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.generics.estruturasequencial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExempEstrutCondi" />
         <item itemvalue="Application.ExempExpressLogic" />
         <item itemvalue="Application.FuncMatem" />
         <item itemvalue="Application.ExempJavaCast1" />
         <item itemvalue="Application.ExempJavaCasting" />
-        <item itemvalue="Application.procJavaCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -277,30 +279,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Fixing the comment">
-      <option name="closed" value="true" />
-      <created>1704215390604</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1704215390604</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Fixing the public class">
-      <option name="closed" value="true" />
-      <created>1704215585507</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1704215585507</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Exemple of arithmetic expressions">
-      <option name="closed" value="true" />
-      <created>1704216477680</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1704216477680</updated>
     </task>
     <task id="LOCAL-00026" summary="Exemple of arithmetic expressions">
       <option name="closed" value="true" />
@@ -526,7 +504,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704289534001</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="corrigindo os comntarios">
+      <option name="closed" value="true" />
+      <created>1704289654057</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289654059</updated>
+    </task>
+    <task id="LOCAL-00055" summary="corrigindo os comntarios">
+      <option name="closed" value="true" />
+      <created>1704289739443</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289739443</updated>
+    </task>
+    <task id="LOCAL-00056" summary="corrigindo os comntarios">
+      <option name="closed" value="true" />
+      <created>1704289822520</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289822520</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,7 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Expressões aritiméticas um pouco diferente!!!" />
     <MESSAGE value="Declaração de Variaveis um pouco diferente!!!" />
     <MESSAGE value="Correção das variaveis!" />
     <MESSAGE value="Variavel recendo pelo nput!" />
@@ -596,7 +597,8 @@
     <MESSAGE value="exemp1 de dados em java cast" />
     <MESSAGE value="Funcao matematica em java" />
     <MESSAGE value="expressoes logicas" />
-    <option name="LAST_COMMIT_MESSAGE" value="expressoes logicas" />
+    <MESSAGE value="corrigindo os comntarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrigindo os comntarios" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
