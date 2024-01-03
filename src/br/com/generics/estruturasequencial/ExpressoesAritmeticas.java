@@ -19,7 +19,7 @@ public class ExpressoesAritmeticas {
                 "Digite o numero 4(quatro) para a expressão subtração: "));
 
         /*
-        if compara objeto/variaveis para que seja feita a resposta do que e esperado.
+        if seria um estrutura(simples) de controle de objeto/variaveis para que seja feita a resposta do que e esperado.
         JOption.showMessDia e uma caixa de dialogo que é emitida para o user!
         integer.parseInt passa/converte uma string para inteiro
          */
@@ -31,7 +31,7 @@ public class ExpressoesAritmeticas {
             result = calc1 * calc2 * calc3;
             JOptionPane.showMessageDialog(null, result);
 
-        } else if (expres == 2) {
+        } else if (expres == 2) { //else if estrutura(composta) de controle.
             calc1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro valor a ser calculado: "));
             calc2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo valor a ser calculado: "));
             calc3 = Integer.parseInt(JOptionPane.showInputDialog("Digite o terceiro valor a ser calculado: "));
