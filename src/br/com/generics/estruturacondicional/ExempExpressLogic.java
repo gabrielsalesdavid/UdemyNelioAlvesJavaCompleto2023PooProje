@@ -12,8 +12,8 @@ public class ExempExpressLogic {
         x = 5;
 
         /*
-        if significa uma estrutura de controle de dados declarada dentro dela. Caso seja o esperado
-        o if joga uma mensagem, do contrario ela pula para o else if ou apenas no else que seria a finalizacao do src.
+        if significa uma estrutura(simples) de controle de dados declarada dentro dela. Caso seja o esperado
+        o if joga uma mensagem, do contrario ela pula para o else if(composta) ou apenas no else que seria a finalizacao do src.
         !(x == y && b > a || c < z). o sinal de esclamacao(!) significa a negacao de algo na logica de programacao.
         ja o sinal de dupla igualdade(==), significa que um objeto/variaveis é igual a outro.
         Os sinais de "E" comerciais(&&), é uma logica de progamacao, que se resulta apenas se todas as condicoes estao verdadeiras
