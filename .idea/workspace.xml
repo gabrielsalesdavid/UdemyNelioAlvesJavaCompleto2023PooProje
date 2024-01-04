@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="ajust a class tres atribu">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Stock.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="ajust a class Stock e adic coment">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Calcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/poo/MembEstat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     "Application.FormatacaoDeVariaveis.executor": "Run",
     "Application.FuncMatem.executor": "Run",
     "Application.LogicaDeProgramacao.executor": "Run",
+    "Application.MembEstat.executor": "Run",
     "Application.OperAtibCumul.executor": "Run",
     "Application.OperBitw.executor": "Run",
     "Application.Para.executor": "Run",
@@ -71,13 +73,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Stock">
-    <configuration name="FacEnquan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.estruturasrepetitivas.FacEnquan" />
+  <component name="RunManager" selected="Application.MembEstat">
+    <configuration name="MembEstat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.MembEstat" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.estruturasrepetitivas.*" />
+          <option name="PATTERN" value="br.com.generics.poo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MembEstat" />
         <item itemvalue="Application.Stock" />
         <item itemvalue="Application.SemOrienObj" />
         <item itemvalue="Application.Sintaxe" />
         <item itemvalue="Application.OperBitw" />
-        <item itemvalue="Application.FacEnquan" />
       </list>
     </recent_temporary>
   </component>
@@ -288,14 +290,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00053" summary="expressoes logicas">
-      <option name="closed" value="true" />
-      <created>1704289534001</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1704289534001</updated>
     </task>
     <task id="LOCAL-00054" summary="corrigindo os comntarios">
       <option name="closed" value="true" />
@@ -537,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704371127082</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="ajust a class Stock e adic coment">
+      <option name="closed" value="true" />
+      <created>1704375581532</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1704375581532</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -582,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="expressoes logicas" />
     <MESSAGE value="corrigindo os comntarios" />
     <MESSAGE value="Exemplos de estrutura condicional!" />
     <MESSAGE value="Operadores de atribuicao cumulativa em java" />
@@ -607,7 +608,8 @@
     <MESSAGE value="adic coment na class tres atribu" />
     <MESSAGE value="ajust a class triangle" />
     <MESSAGE value="ajust a class tres atribu" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajust a class tres atribu" />
+    <MESSAGE value="ajust a class Stock e adic coment" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajust a class Stock e adic coment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
