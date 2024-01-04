@@ -16,7 +16,7 @@ public class TresAtribu { //aqui temos uma class declarada. no escopo e chamada 
 
         /*
         Triangle declarado com os valores, e uma class.
-        os nomes das class recebe o nome da variavel.
+        os nomes das varaiveis recebe class.
          */
         Triangle x, y;
         x = new Triangle();
@@ -39,12 +39,9 @@ public class TresAtribu { //aqui temos uma class declarada. no escopo e chamada 
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        //O nome da variavel p recebe a class com as variaveis realizando os calculos.
-        p = (x.a + x.b + x.c) / 2.0;
-        areaX = Math.sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
-
-        p = (y.a + y.b + y.c) / 2.0;
-        areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
+        //O nome da variavel areaX recebe a variavel da class triangle com method area com os calculos.
+        areaX = x.area();
+        areaY = y.area();
 
         /*
         if e else, sao estrutura de controle, uma simples e a outra composta.
@@ -60,4 +57,3 @@ public class TresAtribu { //aqui temos uma class declarada. no escopo e chamada 
         sc.close();
     }
 }
-

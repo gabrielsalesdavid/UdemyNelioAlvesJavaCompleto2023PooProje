@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="adic coment na class SemOrient">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="adic coment na class tres atribu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/TresAtribu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/TresAtribu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,30 +288,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00048" summary="Funcao matematica em java">
-      <option name="closed" value="true" />
-      <created>1704286142384</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1704286142384</updated>
-    </task>
-    <task id="LOCAL-00049" summary="expressoes logicas">
-      <option name="closed" value="true" />
-      <created>1704288575598</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1704288575598</updated>
-    </task>
-    <task id="LOCAL-00050" summary="expressoes logicas">
-      <option name="closed" value="true" />
-      <created>1704289253907</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1704289253908</updated>
-    </task>
     <task id="LOCAL-00051" summary="expressoes logicas">
       <option name="closed" value="true" />
       <created>1704289335741</created>
@@ -534,7 +512,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704369035405</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="adic coment na class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704369856554</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369856554</updated>
+    </task>
+    <task id="LOCAL-00080" summary="adic coment na class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704369864451</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369864452</updated>
+    </task>
+    <task id="LOCAL-00081" summary="adic coment na class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704369920294</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369920294</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -579,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exemp de dados em java cast" />
     <MESSAGE value="exemp1 de dados em java cast" />
     <MESSAGE value="Funcao matematica em java" />
     <MESSAGE value="expressoes logicas" />
@@ -604,7 +605,8 @@
     <MESSAGE value="Add coment atribut" />
     <MESSAGE value="corrig coment atribut" />
     <MESSAGE value="adic coment na class SemOrient" />
-    <option name="LAST_COMMIT_MESSAGE" value="adic coment na class SemOrient" />
+    <MESSAGE value="adic coment na class tres atribu" />
+    <option name="LAST_COMMIT_MESSAGE" value="adic coment na class tres atribu" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
