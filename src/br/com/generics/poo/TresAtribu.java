@@ -37,7 +37,6 @@ public class TresAtribu {
         } else {
             System.out.println("Larger area: Y ");
         }
-
         sc.close();
     }
 }
