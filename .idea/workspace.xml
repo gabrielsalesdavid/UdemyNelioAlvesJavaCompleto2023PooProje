@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="ajust a class Stock e adic coment">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Calcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/poo/MembEstat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Memb Estatic, method static" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,22 +286,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00054" summary="corrigindo os comntarios">
-      <option name="closed" value="true" />
-      <created>1704289654057</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1704289654059</updated>
-    </task>
-    <task id="LOCAL-00055" summary="corrigindo os comntarios">
-      <option name="closed" value="true" />
-      <created>1704289739443</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1704289739443</updated>
-    </task>
     <task id="LOCAL-00056" summary="corrigindo os comntarios">
       <option name="closed" value="true" />
       <created>1704289822520</created>
@@ -539,7 +518,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704375581532</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Memb Estatic">
+      <option name="closed" value="true" />
+      <created>1704378354774</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378354774</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Memb Estatic, method static">
+      <option name="closed" value="true" />
+      <created>1704378718988</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378718988</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,8 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="corrigindo os comntarios" />
-    <MESSAGE value="Exemplos de estrutura condicional!" />
     <MESSAGE value="Operadores de atribuicao cumulativa em java" />
     <MESSAGE value="Operadores de atribuicao cumulativa em java com switch case" />
     <MESSAGE value="expressao condicional ternaria em java" />
@@ -609,7 +602,9 @@
     <MESSAGE value="ajust a class triangle" />
     <MESSAGE value="ajust a class tres atribu" />
     <MESSAGE value="ajust a class Stock e adic coment" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajust a class Stock e adic coment" />
+    <MESSAGE value="Memb Estatic" />
+    <MESSAGE value="Memb Estatic, method static" />
+    <option name="LAST_COMMIT_MESSAGE" value="Memb Estatic, method static" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
