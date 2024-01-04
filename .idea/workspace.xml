@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Tres atributos com estrutura de controle composta!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/TresAtribu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/TresAtribu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/Sintaxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosbasicojava/Sintaxe.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="corrig coment atribut">
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/SemOrienObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/SemOrienObj.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,30 +286,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00044" summary="exemp1 de dados em java cast">
-      <option name="closed" value="true" />
-      <created>1704224060457</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1704224060457</updated>
-    </task>
-    <task id="LOCAL-00045" summary="exemp1 de dados em java cast">
-      <option name="closed" value="true" />
-      <created>1704224178223</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1704224178223</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Funcao matematica em java">
-      <option name="closed" value="true" />
-      <created>1704229029989</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1704229029990</updated>
-    </task>
     <task id="LOCAL-00047" summary="Funcao matematica em java">
       <option name="closed" value="true" />
       <created>1704229321692</created>
@@ -536,7 +510,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704316126715</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Add coment">
+      <option name="closed" value="true" />
+      <created>1704368258451</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1704368258451</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Add coment atribut">
+      <option name="closed" value="true" />
+      <created>1704368381490</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1704368381490</updated>
+    </task>
+    <task id="LOCAL-00077" summary="corrig coment atribut">
+      <option name="closed" value="true" />
+      <created>1704368410083</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1704368410083</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,9 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="floating point variable" />
-    <MESSAGE value="Concatenation of variables" />
-    <MESSAGE value="Adding comments" />
     <MESSAGE value="proc em java cast" />
     <MESSAGE value="exemp de dados em java cast" />
     <MESSAGE value="exemp1 de dados em java cast" />
@@ -606,7 +601,10 @@
     <MESSAGE value="Problema sem orientacao a objeto!" />
     <MESSAGE value="Problema sem orientacao a objeto adicionando uma estrutura de controle composta!" />
     <MESSAGE value="Tres atributos com estrutura de controle composta!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tres atributos com estrutura de controle composta!" />
+    <MESSAGE value="Add coment" />
+    <MESSAGE value="Add coment atribut" />
+    <MESSAGE value="corrig coment atribut" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrig coment atribut" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
