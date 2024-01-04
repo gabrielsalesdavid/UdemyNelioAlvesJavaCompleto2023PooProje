@@ -60,3 +60,4 @@ public class TresAtribu { //aqui temos uma class declarada. no escopo e chamada 
         sc.close();
     }
 }
+
