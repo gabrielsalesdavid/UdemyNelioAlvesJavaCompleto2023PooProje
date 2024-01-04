@@ -39,7 +39,7 @@ public class TresAtribu { //aqui temos uma class declarada. no escopo e chamada 
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        //O nome da variavel areaX recebe a variavel da class triangle com method area com os calculos.
+        //O nome da variavel areaX recebe a variavel da class triangle com method area com os calculos realizados.
         areaX = x.area();
         areaY = y.area();
 
