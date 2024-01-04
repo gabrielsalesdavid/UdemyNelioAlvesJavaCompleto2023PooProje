@@ -12,18 +12,16 @@ public class MembEstat {
 
         double radius, c, v;
 
-        Calcu calc = new Calcu();
-
         System.out.println("Enter radius: ");
         radius = sc.nextDouble();
 
-        c = calc.circunference(radius);
-        v = calc.volume(radius);
+        c = Calcu.circunference(radius);
+        v = Calcu.volume(radius);
 
 
         System.out.printf("Circunference: %.2f%n", c);
         System.out.printf("Valume: %.2f%n", v);
-        System.out.printf(" PI value: %.2f%n", calc.PI);
+        System.out.printf(" PI value: %.2f%n", Calcu.PI);
 
         sc.close();
     }
