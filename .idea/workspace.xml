@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="corrig coment atribut">
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/SemOrienObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/SemOrienObj.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="adic coment na class SemOrient">
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/TresAtribu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/TresAtribu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,14 +286,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00047" summary="Funcao matematica em java">
-      <option name="closed" value="true" />
-      <created>1704229321692</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1704229321692</updated>
-    </task>
     <task id="LOCAL-00048" summary="Funcao matematica em java">
       <option name="closed" value="true" />
       <created>1704286142384</created>
@@ -534,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704368410083</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="adic coment na class SemOrient">
+      <option name="closed" value="true" />
+      <created>1704369035405</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369035405</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -579,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="proc em java cast" />
     <MESSAGE value="exemp de dados em java cast" />
     <MESSAGE value="exemp1 de dados em java cast" />
     <MESSAGE value="Funcao matematica em java" />
@@ -604,7 +603,8 @@
     <MESSAGE value="Add coment" />
     <MESSAGE value="Add coment atribut" />
     <MESSAGE value="corrig coment atribut" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrig coment atribut" />
+    <MESSAGE value="adic coment na class SemOrient" />
+    <option name="LAST_COMMIT_MESSAGE" value="adic coment na class SemOrient" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
