@@ -2,9 +2,9 @@ package br.com.generics.construtores;
 
 public class ConstEncad {
 
-    public static String name;
-    public static double price;
-    public static int quantity;
+    public String name;
+    public double price;
+    public int quantity;
 
     /*
     public ConstEncad e um method construtor publico. Sendo instanciado/parametrizado as variaveis String, double e int.
@@ -14,13 +14,11 @@ public class ConstEncad {
      */
     public ConstEncad(String name, double price, int quantity) {
         this.name = name;
+        this.price = price;
+        this.quantity = quantity;
     }
 
-    public static double totalValueInStock() {
-        return price * quantity;
-    }
-
-    public static double totalValueInSotck() {
+    public double totalValueInSotck() {
         return price * quantity;
     }
 

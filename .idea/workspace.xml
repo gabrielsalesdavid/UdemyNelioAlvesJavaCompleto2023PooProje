@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Construtor e this">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Construtor e this. coment!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" afterDir="false" />
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConcatVariavel.executor": "Run",
+    "Application.Constr.executor": "Run",
     "Application.ExempEstrutCondi.executor": "Run",
     "Application.ExempExpressLogic.executor": "Run",
     "Application.ExempJavaCast1.executor": "Run",
@@ -72,13 +73,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MembEstat">
-    <configuration name="MembEstat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.MembEstat" />
+  <component name="RunManager" selected="Application.Constr">
+    <configuration name="Constr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Constr" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.poo.*" />
+          <option name="PATTERN" value="br.com.generics.construtores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperBitw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosbasicojava.OperBitw" />
+    <configuration name="MembEstat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.MembEstat" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.topicosbasicojava.*" />
+          <option name="PATTERN" value="br.com.generics.poo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MembEstat" />
+        <item itemvalue="Application.Constr" />
         <item itemvalue="Application.Stock" />
+        <item itemvalue="Application.MembEstat" />
         <item itemvalue="Application.SemOrienObj" />
         <item itemvalue="Application.Sintaxe" />
-        <item itemvalue="Application.OperBitw" />
       </list>
     </recent_temporary>
   </component>
@@ -289,14 +290,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Operadores de atribuicao cumulativa em java">
-      <option name="closed" value="true" />
-      <created>1704296254287</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1704296254288</updated>
     </task>
     <task id="LOCAL-00059" summary="Operadores de atribuicao cumulativa em java com switch case">
       <option name="closed" value="true" />
@@ -538,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704465106877</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Construtor e this. coment!">
+      <option name="closed" value="true" />
+      <created>1704468948329</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1704468948329</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -583,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Operadores de atribuicao cumulativa em java com switch case" />
     <MESSAGE value="expressao condicional ternaria em java" />
     <MESSAGE value="Inicializacao e escopo no method vazio!" />
     <MESSAGE value="While!" />
@@ -608,7 +608,8 @@
     <MESSAGE value="Memb Estatic" />
     <MESSAGE value="Memb Estatic, method static" />
     <MESSAGE value="Construtor e this" />
-    <option name="LAST_COMMIT_MESSAGE" value="Construtor e this" />
+    <MESSAGE value="Construtor e this. coment!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Construtor e this. coment!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

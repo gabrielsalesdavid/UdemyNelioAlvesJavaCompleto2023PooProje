@@ -25,6 +25,8 @@ public class Constr {
         System.out.println("Quantity in stock: ");
         int quantity = sc.nextInt();
 
+        ConstEncad cons = new ConstEncad(name, price, quantity);
+
         /*
         A class foi declarada por aqui. pois se fosse antes das variaveis e depois do method a condicao
         nao reconheceria. e uma class construtora. assim elemina alguns codigos feitos e deixa tudo centrado nele.
@@ -33,7 +35,7 @@ public class Constr {
         dos dados inseridos. como se fosse um BD local!
         */
         System.out.println(name + ", " + price + ", " + quantity);
-        ConstEncad cons = new ConstEncad(name, price, quantity);
+        System.out.println(cons);
 
         System.out.println("Enter the number of products to be added in stock: ");
         quantity = sc.nextInt();
@@ -44,7 +46,7 @@ public class Constr {
         cons.removeProducts(quantity);
 
         System.out.println(name + ", " + price + ", " + quantity);
-        System.out.println();
+        System.out.println(cons);
 
         sc.close();
     }
