@@ -15,12 +15,10 @@ public class Product {
     que retorna o nome do atributo realizando o calcurlo.
      */
     public static double totalValueInStock() {
-
         return price * quantity;
     }
 
     public void addProdcuts(int quantity) {
-
         this.quantity += quantity;
     }
 
