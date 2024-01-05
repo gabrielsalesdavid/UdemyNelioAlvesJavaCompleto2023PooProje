@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Construtor e this. coment!">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Corrig a class construtor e this. coment!">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/SobCarg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Sobre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
     "Application.Para.executor": "Run",
     "Application.SemOrienObj.executor": "Run",
     "Application.Sintaxe.executor": "Run",
+    "Application.Sobre.executor": "Run",
     "Application.Stock.executor": "Run",
     "Application.VariavComPontoFlutuante.executor": "Run",
     "Application.procJavaCasting.executor": "Run",
@@ -73,7 +74,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Constr">
+  <component name="RunManager" selected="Application.Sobre">
     <configuration name="Constr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Constr" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sintaxe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosbasicojava.Sintaxe" />
+    <configuration name="Sobre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Sobre" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.topicosbasicojava.*" />
+          <option name="PATTERN" value="br.com.generics.construtores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sobre" />
         <item itemvalue="Application.Constr" />
         <item itemvalue="Application.Stock" />
         <item itemvalue="Application.MembEstat" />
         <item itemvalue="Application.SemOrienObj" />
-        <item itemvalue="Application.Sintaxe" />
       </list>
     </recent_temporary>
   </component>
@@ -290,14 +291,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Operadores de atribuicao cumulativa em java com switch case">
-      <option name="closed" value="true" />
-      <created>1704297124421</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1704297124421</updated>
     </task>
     <task id="LOCAL-00060" summary="Operadores de atribuicao cumulativa em java com switch case">
       <option name="closed" value="true" />
@@ -539,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704468948329</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Corrig a class construtor e this. coment!">
+      <option name="closed" value="true" />
+      <created>1704470952779</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1704470952779</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="expressao condicional ternaria em java" />
     <MESSAGE value="Inicializacao e escopo no method vazio!" />
     <MESSAGE value="While!" />
     <MESSAGE value="While com atribuicao acumulativa!" />
@@ -609,7 +609,8 @@
     <MESSAGE value="Memb Estatic, method static" />
     <MESSAGE value="Construtor e this" />
     <MESSAGE value="Construtor e this. coment!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Construtor e this. coment!" />
+    <MESSAGE value="Corrig a class construtor e this. coment!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrig a class construtor e this. coment!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
