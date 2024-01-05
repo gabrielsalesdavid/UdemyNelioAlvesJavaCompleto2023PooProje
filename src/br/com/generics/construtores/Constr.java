@@ -10,33 +10,41 @@ public class Constr {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        int quant;
-
-        ConstEncad conEnc = new ConstEncad();
-
+        /*
+        Foi realizado a declaracao das variaveis temp na condicao.
+        sendo que se fosse depois dos atributos/method Locale e Scanner a condicao nao reconheceria,
+        assim foi inserido as variaveis temp depois de cada condicao.
+         */
         System.out.println("Enter product data: ");
         System.out.println("Name: ");
-        conEnc.name = sc.nextLine();
+        String name = sc.nextLine();
 
         System.out.println("Price: ");
-        conEnc.price = sc.nextDouble();
+        double price = sc.nextDouble();
 
         System.out.println("Quantity in stock: ");
-        conEnc.quantity = sc.nextInt();
+        int quantity = sc.nextInt();
 
-        System.out.println(conEnc. name + ", " + conEnc.price + ", " + conEnc.quantity);
-        System.out.println(conEnc);
+        /*
+        A class foi declarada por aqui. pois se fosse antes das variaveis e depois do method a condicao
+        nao reconheceria. e uma class construtora. assim elemina alguns codigos feitos e deixa tudo centrado nele.
+        nomes das variaveis parametrizada no SysOut/Inicializada ela refere a class/atributo ConstEncad.
+        sendo assim, essa class principal seria o coletor de daods e repasa a outra class que realiza o armezanamento
+        dos dados inseridos. como se fosse um BD local!
+        */
+        System.out.println(name + ", " + price + ", " + quantity);
+        ConstEncad cons = new ConstEncad(name, price, quantity);
 
         System.out.println("Enter the number of products to be added in stock: ");
-        quant = sc.nextInt();
-        conEnc.addProducts(quant);
+        quantity = sc.nextInt();
+        cons.addProducts(quantity);
 
         System.out.println("Enter the number of products to be remove from stock: ");
-        quant = sc.nextInt();
-        conEnc.removeProducts(quant);
+        quantity = sc.nextInt();
+        cons.removeProducts(quantity);
 
-        System.out.println(conEnc.name + ", " + conEnc.price + ", " + conEnc.quantity);
-        System.out.println(conEnc);
+        System.out.println(name + ", " + price + ", " + quantity);
+        System.out.println();
 
         sc.close();
     }

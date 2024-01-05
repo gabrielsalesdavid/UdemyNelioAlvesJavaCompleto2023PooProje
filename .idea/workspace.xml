@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Memb Estatic, method static">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Construtor e this">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/poo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/ConstEncad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Constr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,14 +290,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00057" summary="Exemplos de estrutura condicional!">
-      <option name="closed" value="true" />
-      <created>1704294093779</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1704294093779</updated>
-    </task>
     <task id="LOCAL-00058" summary="Operadores de atribuicao cumulativa em java">
       <option name="closed" value="true" />
       <created>1704296254287</created>
@@ -539,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704378927096</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Construtor e this">
+      <option name="closed" value="true" />
+      <created>1704465106877</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1704465106877</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,7 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Operadores de atribuicao cumulativa em java" />
     <MESSAGE value="Operadores de atribuicao cumulativa em java com switch case" />
     <MESSAGE value="expressao condicional ternaria em java" />
     <MESSAGE value="Inicializacao e escopo no method vazio!" />
@@ -609,7 +607,8 @@
     <MESSAGE value="ajust a class Stock e adic coment" />
     <MESSAGE value="Memb Estatic" />
     <MESSAGE value="Memb Estatic, method static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Memb Estatic, method static" />
+    <MESSAGE value="Construtor e this" />
+    <option name="LAST_COMMIT_MESSAGE" value="Construtor e this" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
