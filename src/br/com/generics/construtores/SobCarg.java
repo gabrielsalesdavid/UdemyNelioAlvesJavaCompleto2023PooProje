@@ -5,6 +5,9 @@ public class SobCarg {
     public double price;
     public int quantity;
 
+    public SobCarg() {
+    }
+
     /*
     public ConstEncad e um method construtor publico. Sendo instanciado/parametrizado as variaveis String, double e int.
     this seria uma referencia entre objetos/atributos.

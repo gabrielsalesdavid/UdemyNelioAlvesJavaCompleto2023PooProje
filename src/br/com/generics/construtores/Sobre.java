@@ -10,6 +10,8 @@ public class Sobre {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        SobCarg sobCar = new SobCarg();
+
         /*
         Foi realizado a declaracao das variaveis temp na condicao.
         sendo que se fosse depois dos atributos/method Locale e Scanner a condicao nao reconheceria,

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Corrig a class construtor e this. coment!">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/SobCarg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Sobre.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Class sobre carga em java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/SobCarg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/SobCarg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/Sobre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Sobre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,14 +292,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00060" summary="Operadores de atribuicao cumulativa em java com switch case">
-      <option name="closed" value="true" />
-      <created>1704297145749</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1704297145749</updated>
-    </task>
     <task id="LOCAL-00061" summary="expressao condicional ternaria em java">
       <option name="closed" value="true" />
       <created>1704297601280</created>
@@ -540,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704470952779</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Class sobre carga em java">
+      <option name="closed" value="true" />
+      <created>1704472627074</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1704472627074</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inicializacao e escopo no method vazio!" />
     <MESSAGE value="While!" />
     <MESSAGE value="While com atribuicao acumulativa!" />
     <MESSAGE value="For com atribuicao acumulativa!" />
@@ -610,7 +609,8 @@
     <MESSAGE value="Construtor e this" />
     <MESSAGE value="Construtor e this. coment!" />
     <MESSAGE value="Corrig a class construtor e this. coment!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrig a class construtor e this. coment!" />
+    <MESSAGE value="Class sobre carga em java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class sobre carga em java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
