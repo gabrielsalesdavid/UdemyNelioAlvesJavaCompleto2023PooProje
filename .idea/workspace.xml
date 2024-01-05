@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Class sobre carga em java">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="mudan as class sobre carga em java de package">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/encapsulamento/Enca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/encapsulamento/Encapsu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/SobCarg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/SobCarg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/construtores/Sobre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/construtores/Sobre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   "keyToString": {
     "Application.ConcatVariavel.executor": "Run",
     "Application.Constr.executor": "Run",
+    "Application.Enca.executor": "Run",
     "Application.ExempEstrutCondi.executor": "Run",
     "Application.ExempExpressLogic.executor": "Run",
     "Application.ExempJavaCast1.executor": "Run",
@@ -74,7 +75,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sobre">
+  <component name="RunManager" selected="Application.Enca">
     <configuration name="Constr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Constr" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MembEstat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.MembEstat" />
+    <configuration name="Enca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.encapsulamento.Enca" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.poo.*" />
+          <option name="PATTERN" value="br.com.generics.encapsulamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemOrienObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.SemOrienObj" />
+    <configuration name="MembEstat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.MembEstat" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enca" />
         <item itemvalue="Application.Sobre" />
         <item itemvalue="Application.Constr" />
         <item itemvalue="Application.Stock" />
         <item itemvalue="Application.MembEstat" />
-        <item itemvalue="Application.SemOrienObj" />
       </list>
     </recent_temporary>
   </component>
@@ -291,22 +292,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00061" summary="expressao condicional ternaria em java">
-      <option name="closed" value="true" />
-      <created>1704297601280</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1704297601281</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Inicializacao e escopo no method vazio!">
-      <option name="closed" value="true" />
-      <created>1704298186726</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1704298186726</updated>
     </task>
     <task id="LOCAL-00063" summary="While!">
       <option name="closed" value="true" />
@@ -540,7 +525,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704472627074</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="add class sobre carga em java">
+      <option name="closed" value="true" />
+      <created>1704473124416</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1704473124417</updated>
+    </task>
+    <task id="LOCAL-00093" summary="mudan as class sobre carga em java de package">
+      <option name="closed" value="true" />
+      <created>1704473208360</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1704473208360</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,8 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="While!" />
-    <MESSAGE value="While com atribuicao acumulativa!" />
     <MESSAGE value="For com atribuicao acumulativa!" />
     <MESSAGE value="Do While!" />
     <MESSAGE value="Operador bitwise" />
@@ -610,7 +609,9 @@
     <MESSAGE value="Construtor e this. coment!" />
     <MESSAGE value="Corrig a class construtor e this. coment!" />
     <MESSAGE value="Class sobre carga em java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class sobre carga em java" />
+    <MESSAGE value="add class sobre carga em java" />
+    <MESSAGE value="mudan as class sobre carga em java de package" />
+    <option name="LAST_COMMIT_MESSAGE" value="mudan as class sobre carga em java de package" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
