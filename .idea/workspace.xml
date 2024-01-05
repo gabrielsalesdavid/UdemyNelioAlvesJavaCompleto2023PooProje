@@ -80,7 +80,7 @@
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.construtores.*" />
+          <option name="PATTERN" value="br.com.generics.sobrecarga.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
       </method>
     </configuration>
     <configuration name="Sobre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Sobre" />
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.sobrecarga.Sobre" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.construtores.*" />
+          <option name="PATTERN" value="br.com.generics.sobrecarga.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

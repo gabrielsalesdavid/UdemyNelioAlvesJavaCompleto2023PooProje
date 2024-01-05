@@ -1,4 +1,4 @@
-package br.com.generics.construtores;
+package br.com.generics.sobrecarga;
 
 public class SobCarg {
     public String name;

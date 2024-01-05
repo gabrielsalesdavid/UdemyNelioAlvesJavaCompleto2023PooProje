@@ -1,4 +1,4 @@
-package br.com.generics.construtores;
+package br.com.generics.sobrecarga;
 
 import java.util.Locale;
 import java.util.Scanner;
