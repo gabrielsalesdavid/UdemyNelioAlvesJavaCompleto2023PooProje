@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="class vector with sobcarg and comments">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/listas/BoxingUnBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="boxing and UnBoxing">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/listas/Wrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/listas/BoxingUnBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/listas/BoxingUnBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,14 +296,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00066" summary="For com atribuicao acumulativa!">
-      <option name="closed" value="true" />
-      <created>1704302928789</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1704302928789</updated>
-    </task>
     <task id="LOCAL-00067" summary="Do While!">
       <option name="closed" value="true" />
       <created>1704305312709</created>
@@ -544,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704723808931</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="boxing and UnBoxing">
+      <option name="closed" value="true" />
+      <created>1704728397935</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728397935</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Funcao para String!" />
     <MESSAGE value="Funcao(Sintax)!" />
     <MESSAGE value="Funcao(Sintax) com escopo void e int!" />
     <MESSAGE value="Problema sem orientacao a objeto!" />
@@ -614,7 +613,8 @@
     <MESSAGE value="class encapsulamentos" />
     <MESSAGE value="class vector and comments" />
     <MESSAGE value="class vector with sobcarg and comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="class vector with sobcarg and comments" />
+    <MESSAGE value="boxing and UnBoxing" />
+    <option name="LAST_COMMIT_MESSAGE" value="boxing and UnBoxing" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
