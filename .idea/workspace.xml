@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="class vector and comments">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/VectProduct.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="class vector with sobcarg and comments">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/listas/BoxingUnBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,14 +296,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00065" summary="While com atribuicao acumulativa!">
-      <option name="closed" value="true" />
-      <created>1704301755164</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1704301755165</updated>
-    </task>
     <task id="LOCAL-00066" summary="For com atribuicao acumulativa!">
       <option name="closed" value="true" />
       <created>1704302928789</created>
@@ -543,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704720449518</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="class vector with sobcarg and comments">
+      <option name="closed" value="true" />
+      <created>1704723808931</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1704723808931</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Operador bitwise" />
     <MESSAGE value="Funcao para String!" />
     <MESSAGE value="Funcao(Sintax)!" />
     <MESSAGE value="Funcao(Sintax) com escopo void e int!" />
@@ -613,7 +613,8 @@
     <MESSAGE value="mudan as class sobre carga em java de package" />
     <MESSAGE value="class encapsulamentos" />
     <MESSAGE value="class vector and comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="class vector and comments" />
+    <MESSAGE value="class vector with sobcarg and comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="class vector with sobcarg and comments" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
