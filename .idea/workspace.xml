@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="boxing and UnBoxing">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/listas/Wrapper.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Add comment">
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/listas/BoxingUnBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/listas/BoxingUnBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,38 +293,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00067" summary="Do While!">
-      <option name="closed" value="true" />
-      <created>1704305312709</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1704305312709</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Operador bitwise">
-      <option name="closed" value="true" />
-      <created>1704307112228</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1704307112228</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Funcao para String!">
-      <option name="closed" value="true" />
-      <created>1704308799876</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1704308799876</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Funcao(Sintax)!">
-      <option name="closed" value="true" />
-      <created>1704311087873</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1704311087888</updated>
-    </task>
     <task id="LOCAL-00071" summary="Funcao(Sintax) com escopo void e int!">
       <option name="closed" value="true" />
       <created>1704311718695</created>
@@ -544,7 +509,39 @@
       <option name="project" value="LOCAL" />
       <updated>1704728397935</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Wraper with comment">
+      <option name="closed" value="true" />
+      <created>1704728765966</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728765966</updated>
+    </task>
+    <task id="LOCAL-00099" summary="corrig the comment">
+      <option name="closed" value="true" />
+      <created>1704728797024</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728797024</updated>
+    </task>
+    <task id="LOCAL-00100" summary="corrig the comment">
+      <option name="closed" value="true" />
+      <created>1704728827066</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728827066</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Add comment">
+      <option name="closed" value="true" />
+      <created>1704729015187</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1704729015187</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,9 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Funcao(Sintax)!" />
-    <MESSAGE value="Funcao(Sintax) com escopo void e int!" />
-    <MESSAGE value="Problema sem orientacao a objeto!" />
     <MESSAGE value="Problema sem orientacao a objeto adicionando uma estrutura de controle composta!" />
     <MESSAGE value="Tres atributos com estrutura de controle composta!" />
     <MESSAGE value="Add coment" />
@@ -614,7 +608,10 @@
     <MESSAGE value="class vector and comments" />
     <MESSAGE value="class vector with sobcarg and comments" />
     <MESSAGE value="boxing and UnBoxing" />
-    <option name="LAST_COMMIT_MESSAGE" value="boxing and UnBoxing" />
+    <MESSAGE value="Wraper with comment" />
+    <MESSAGE value="corrig the comment" />
+    <MESSAGE value="Add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

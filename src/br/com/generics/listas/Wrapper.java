@@ -11,6 +11,7 @@ public class Wrapper {
         ja nome da variavel y que recebe a variavel do tipo inteiro obj, que divide pelo valor instanciado/declarado.
         as wraper class trata das varaiveis do tipos primitivos para uma class que o compilator nao de erro.
         Wraper class recebe valor null!
+        Double, Float, Integer e Boolean sao do tipo class, que nao seria um tipo primitivo!
          */
         int x, y;
 
