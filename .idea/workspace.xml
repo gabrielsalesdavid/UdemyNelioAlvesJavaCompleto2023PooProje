@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="mudan as class sobre carga em java de package">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/encapsulamento/Enca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/encapsulamento/Encapsu.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="class encapsulamentos">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/Vecto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +67,7 @@
     "Application.Sobre.executor": "Run",
     "Application.Stock.executor": "Run",
     "Application.VariavComPontoFlutuante.executor": "Run",
+    "Application.Vecto.executor": "Run",
     "Application.procJavaCasting.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,7 +75,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Enca">
+  <component name="RunManager" selected="Application.Vecto">
     <configuration name="Constr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Constr" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -95,19 +95,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.generics.encapsulamento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MembEstat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.poo.MembEstat" />
-      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.generics.poo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vecto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.arrays.Vecto" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vecto" />
         <item itemvalue="Application.Enca" />
         <item itemvalue="Application.Sobre" />
         <item itemvalue="Application.Constr" />
         <item itemvalue="Application.Stock" />
-        <item itemvalue="Application.MembEstat" />
       </list>
     </recent_temporary>
   </component>
@@ -292,14 +292,6 @@
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
-    </task>
-    <task id="LOCAL-00063" summary="While!">
-      <option name="closed" value="true" />
-      <created>1704301093387</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1704301093388</updated>
     </task>
     <task id="LOCAL-00064" summary="While com atribuicao acumulativa!">
       <option name="closed" value="true" />
@@ -541,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704473208360</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="class encapsulamentos">
+      <option name="closed" value="true" />
+      <created>1704474596001</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1704474596001</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="For com atribuicao acumulativa!" />
     <MESSAGE value="Do While!" />
     <MESSAGE value="Operador bitwise" />
     <MESSAGE value="Funcao para String!" />
@@ -611,7 +610,8 @@
     <MESSAGE value="Class sobre carga em java" />
     <MESSAGE value="add class sobre carga em java" />
     <MESSAGE value="mudan as class sobre carga em java de package" />
-    <option name="LAST_COMMIT_MESSAGE" value="mudan as class sobre carga em java de package" />
+    <MESSAGE value="class encapsulamentos" />
+    <option name="LAST_COMMIT_MESSAGE" value="class encapsulamentos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
