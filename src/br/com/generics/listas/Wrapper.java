@@ -9,6 +9,8 @@ public class Wrapper {
         nome da variavel recebe(=) o valor isntanciado;
         Integer e uma variavel da class Integer. obj recebe(=) x que recebeu o valor 20. isto seria Wraper.
         ja nome da variavel y que recebe a variavel do tipo inteiro obj, que divide pelo valor instanciado/declarado.
+        as wraper class trata das varaiveis do tipos primitivos para uma class que o compilator nao de erro.
+        Wraper class recebe valor null!
          */
         int x, y;
 
