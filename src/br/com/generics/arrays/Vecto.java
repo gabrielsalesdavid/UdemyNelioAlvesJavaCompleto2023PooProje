@@ -41,7 +41,7 @@ public class Vecto {
         execute o comando ate que ele seja o valor que o number foi declarado. ou seja. se number for declarado tres,
         a estrutura de repeticao encerara quando i for igual a number.
         sum += vect[i]. =+ significa que o nome da variavel recebe ela mesma somando pelo nome da variavel vect[i] que e
-        um array. [i] e o array que possui os dados inseridos nele.
+        um array. [i] e o array que possui os dados inseridos nele, ou na posicao i.
         avg, foi declarado depois das estruturas de repeticoes por conta de logica. pois se fosse feito os calc antes
         daria erro de logica.
         avg recebe sum dividido pelo number.
