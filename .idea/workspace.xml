@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Add comment">
-      <change afterPath="$PROJECT_DIR$/src/br/com/generics/arrays/ForEach.java" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Collect and comment">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/listas/Lista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,14 +294,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00073" summary="Problema sem orientacao a objeto adicionando uma estrutura de controle composta!">
-      <option name="closed" value="true" />
-      <created>1704316017328</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1704316017328</updated>
-    </task>
     <task id="LOCAL-00074" summary="Tres atributos com estrutura de controle composta!">
       <option name="closed" value="true" />
       <created>1704316126715</created>
@@ -542,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704730553409</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Collect and comment">
+      <option name="closed" value="true" />
+      <created>1704731884454</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1704731884454</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -587,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problema sem orientacao a objeto adicionando uma estrutura de controle composta!" />
     <MESSAGE value="Tres atributos com estrutura de controle composta!" />
     <MESSAGE value="Add coment" />
     <MESSAGE value="Add coment atribut" />
@@ -612,7 +611,8 @@
     <MESSAGE value="Wraper with comment" />
     <MESSAGE value="corrig the comment" />
     <MESSAGE value="Add comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comment" />
+    <MESSAGE value="Collect and comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collect and comment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
