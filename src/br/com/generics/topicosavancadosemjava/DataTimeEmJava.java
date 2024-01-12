@@ -18,6 +18,7 @@ public class DataTimeEmJava {
         DateTimeFormatter fmt02 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
         DateTimeFormatter fmt03 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());
         DateTimeFormatter fmt04 = DateTimeFormatter.ISO_DATE_TIME;
+        DateTimeFormatter fmt05 = DateTimeFormatter.ISO_INSTANT;
 
         System.out.println(d04.format(fmt01));
         System.out.println(fmt01.format(d04));
