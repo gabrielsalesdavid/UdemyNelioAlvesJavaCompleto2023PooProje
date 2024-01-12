@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Interface List and comment">
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/listas/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/listas/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/InstancDataTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,9 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/InstancDataTime.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,6 +60,7 @@
     "Application.FacEnquan.executor": "Run",
     "Application.FormatacaoDeVariaveis.executor": "Run",
     "Application.FuncMatem.executor": "Run",
+    "Application.InstancDataTime.executor": "Run",
     "Application.LogicaDeProgramacao.executor": "Run",
     "Application.MembEstat.executor": "Run",
     "Application.OperAtibCumul.executor": "Run",
@@ -71,17 +76,18 @@
     "Application.procJavaCasting.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Vec">
-    <configuration name="Constr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.construtores.Constr" />
+  <component name="RunManager" selected="Application.InstancDataTime">
+    <configuration name="Enca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.encapsulamento.Enca" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.sobrecarga.*" />
+          <option name="PATTERN" value="br.com.generics.encapsulamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.encapsulamento.Enca" />
+    <configuration name="InstancDataTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.InstancDataTime" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.generics.encapsulamento.*" />
+          <option name="PATTERN" value="br.com.generics.topicosavancadosemjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstancDataTime" />
         <item itemvalue="Application.Vec" />
         <item itemvalue="Application.Vecto" />
         <item itemvalue="Application.Enca" />
         <item itemvalue="Application.Sobre" />
-        <item itemvalue="Application.Constr" />
       </list>
     </recent_temporary>
   </component>
