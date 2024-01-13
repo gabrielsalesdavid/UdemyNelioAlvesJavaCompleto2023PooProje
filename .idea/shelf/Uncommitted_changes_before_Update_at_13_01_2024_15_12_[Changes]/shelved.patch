@@ -1,0 +1,137 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_X\" default=\"true\" project-jdk-name=\"20\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/out\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 4dc92b261b24384a6ba45f98b2d9613d5e0b66bf)
++++ b/.idea/misc.xml	(date 1703202887966)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="20" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a5c9ead6-18b4-428f-a77f-779612bfa908\" name=\"Changes\" comment=\"Confirmando alguns detalhes na logica de programação!\">\n      <change beforePath=\"$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\n    <option name=\"PUSH_TAGS\">\n      <GitPushTagMode>\n        <option name=\"argument\" value=\"--tags\" />\n        <option name=\"title\" value=\"All\" />\n      </GitPushTagMode>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2ZlDX0Nk3WE9SMc12CSyusVdcPJ\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a5c9ead6-18b4-428f-a77f-779612bfa908\" name=\"Changes\" comment=\"\" />\n      <created>1702987812926</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1702987812926</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Expressões aritiméticas um pouco diferente!!!\">\n      <created>1702994293144</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1702994293144</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Declaração de Variaveis um pouco diferente!!!\">\n      <created>1703003925787</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703003925787</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Correção das variaveis!\">\n      <created>1703018872740</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703018872740</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Variavel recendo pelo nput!\">\n      <created>1703075582899</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703075582899</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Variavel recendo pelo input!\">\n      <created>1703076012357</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703076012357</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Variavel recendo pelo input!\">\n      <created>1703087000892</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703087000892</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"inserido a conversão de string para char!\">\n      <created>1703087833879</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703087833879</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"inserido a conversão de string para char!\">\n      <created>1703096740080</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703096740080</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Logica de programação!\">\n      <created>1703163926916</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703163926916</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Logica de programação!\">\n      <created>1703163941789</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703163941789</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"implementando mais na logica de programação!\">\n      <created>1703165792037</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703165792037</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Corrigindo algun detales na na logica de programação!\">\n      <created>1703166850104</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703166850104</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"Corrigindo algun detales na na logica de programação!\">\n      <created>1703166914166</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703166914166</updated>\n    </task>\n    <task id=\"LOCAL-00014\" summary=\"Corrigindo alguns detales na logica de programação!\">\n      <created>1703170691131</created>\n      <option name=\"number\" value=\"00014\" />\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703170691131</updated>\n    </task>\n    <task id=\"LOCAL-00015\" summary=\"Corrigindo alguns detalhes na logica de programação!\">\n      <created>1703178256549</created>\n      <option name=\"number\" value=\"00015\" />\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703178256549</updated>\n    </task>\n    <task id=\"LOCAL-00016\" summary=\"Confirmando alguns detalhes na logica de programação!\">\n      <created>1703182449667</created>\n      <option name=\"number\" value=\"00016\" />\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1703182449667</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"17\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"146c1402-dc62-4c06-b251-8eef1d9df872\">\n          <value>\n            <State>\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"HEAD\" />\n                      </list>\n                    </value>\n                  </entry>\n                  <entry key=\"structure\">\n                    <value>\n                      <list>\n                        <option value=\"dir:C:/Users/Gabriel Sales David/eclipse-workspace/UdemyNelioAlvesJavaCompleto2023PooProje/src/br/com/generics/estruturasequencial\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"OPEN_GENERIC_TABS\">\n      <map>\n        <entry key=\"146c1402-dc62-4c06-b251-8eef1d9df872\" value=\"TOOL_WINDOW\" />\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Expressões aritiméticas um pouco diferente!!!\" />\n    <MESSAGE value=\"Declaração de Variaveis um pouco diferente!!!\" />\n    <MESSAGE value=\"Correção das variaveis!\" />\n    <MESSAGE value=\"Variavel recendo pelo nput!\" />\n    <MESSAGE value=\"Variavel recendo pelo input!\" />\n    <MESSAGE value=\"inserido a conversão de string para char!\" />\n    <MESSAGE value=\"Logica de programação!\" />\n    <MESSAGE value=\"implementando mais na logica de programação!\" />\n    <MESSAGE value=\"Corrigindo algun detales na na logica de programação!\" />\n    <MESSAGE value=\"Corrigindo alguns detales na logica de programação!\" />\n    <MESSAGE value=\"Corrigindo alguns detalhes na logica de programação!\" />\n    <MESSAGE value=\"Confirmando alguns detalhes na logica de programação!\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Confirmando alguns detalhes na logica de programação!\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4dc92b261b24384a6ba45f98b2d9613d5e0b66bf)
++++ b/.idea/workspace.xml	(date 1704415228945)
+@@ -5,7 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Confirmando alguns detalhes na logica de programação!">
+-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/estruturacondicional/LogicaDeProgramacao.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -29,9 +30,38 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;history&quot;: [
++    {
++      &quot;state&quot;: &quot;OPEN&quot;
++    },
++    {
++      &quot;searchQuery&quot;: &quot;Udemy&quot;,
++      &quot;state&quot;: &quot;OPEN&quot;
++    }
++  ],
++  &quot;lastFilter&quot;: {
++    &quot;searchQuery&quot;: &quot;Udemy&quot;,
++    &quot;state&quot;: &quot;OPEN&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="0e38a69f-f543-498d-95ca-5063681fc035" />
++        <option name="url" value="https://github.com/gabrielsalesdavid/UdemyNelioAlvesJavaCompleto2023PooProje" />
++      </UrlAndAccount>
++    </option>
++  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
++  </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 1
++}</component>
+   <component name="ProjectId" id="2ZlDX0Nk3WE9SMc12CSyusVdcPJ" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+@@ -40,12 +70,15 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "master",
++    "kotlin-language-version-configured": "true",
++    "settings.editor.selected.configurable": "settings.sync"
+   }
+-}</component>
++}]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -171,12 +204,16 @@
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
++    <option name="OPEN_GENERIC_TABS">
++      <map>
++        <entry key="146c1402-dc62-4c06-b251-8eef1d9df872" value="TOOL_WINDOW" />
++      </map>
++    </option>
+     <option name="TAB_STATES">
+       <map>
+         <entry key="146c1402-dc62-4c06-b251-8eef1d9df872">
+           <value>
+             <State>
+-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+               <option name="FILTERS">
+                 <map>
+                   <entry key="branch">
+@@ -195,6 +232,7 @@
+                   </entry>
+                 </map>
+               </option>
++              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+             </State>
+           </value>
+         </entry>
+@@ -203,11 +241,6 @@
+             <State />
+           </value>
+         </entry>
+-      </map>
+-    </option>
+-    <option name="OPEN_GENERIC_TABS">
+-      <map>
+-        <entry key="146c1402-dc62-4c06-b251-8eef1d9df872" value="TOOL_WINDOW" />
+       </map>
+     </option>
+   </component>
