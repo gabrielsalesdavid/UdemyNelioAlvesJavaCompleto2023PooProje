@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Add coment na class InstancDataTime">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Add coment na class DataTimeEmJava.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/DataTimeEmJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/DataTimeEmJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/ConvertDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/ConvertDateTime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConvertDateTime.executor": "Run",
     "Application.DataTimeEmJava.executor": "Run",
     "Application.InstancDataTime.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -54,7 +55,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ConvertDateTime">
+    <configuration name="ConvertDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.ConvertDateTime" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.topicosavancadosemjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataTimeEmJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.DataTimeEmJava" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
@@ -70,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertDateTime" />
         <item itemvalue="Application.DataTimeEmJava" />
       </list>
     </recent_temporary>
@@ -210,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705174504043</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add coment na class DataTimeEmJava.java">
+      <option name="closed" value="true" />
+      <created>1705177834090</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705177834090</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +291,7 @@
     <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
     <MESSAGE value="Confirmando alguns detalhes na logica de programação!" />
     <MESSAGE value="Add coment na class InstancDataTime" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add coment na class InstancDataTime" />
+    <MESSAGE value="Add coment na class DataTimeEmJava.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add coment na class DataTimeEmJava.java" />
   </component>
 </project>
