@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="CalcDate de datenasci">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="CalcDate add SysOut">
       <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/CalcDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/CalcDate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -301,14 +300,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00080" summary="adic coment na class tres atribu">
-      <option name="closed" value="true" />
-      <created>1704369864451</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1704369864452</updated>
-    </task>
     <task id="LOCAL-00081" summary="adic coment na class tres atribu">
       <option name="closed" value="true" />
       <created>1704369920294</created>
@@ -549,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705342129605</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="CalcDate add SysOut">
+      <option name="closed" value="true" />
+      <created>1705345047418</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1705345047418</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -594,7 +593,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adic coment na class tres atribu" />
     <MESSAGE value="ajust a class triangle" />
     <MESSAGE value="ajust a class tres atribu" />
     <MESSAGE value="ajust a class Stock e adic coment" />
@@ -619,7 +617,8 @@
     <MESSAGE value="InstancDataTime em Java 02" />
     <MESSAGE value="CalcDate add coments" />
     <MESSAGE value="CalcDate de datenasci" />
-    <option name="LAST_COMMIT_MESSAGE" value="CalcDate de datenasci" />
+    <MESSAGE value="CalcDate add SysOut" />
+    <option name="LAST_COMMIT_MESSAGE" value="CalcDate add SysOut" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
