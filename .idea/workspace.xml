@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="Add coment na class DataTimeEmJava.java">
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="InstancDataTime em Java 02">
+      <change afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/CalcDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_01_2024_15_12__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_01_2024_15_12__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/ConvertDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/ConvertDateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/generics/encapsulamento/Encapsu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/encapsulamento/Encapsu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +33,15 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/InstancDataTime.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZlDX0Nk3WE9SMc12CSyusVdcPJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,18 +52,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ConvertDateTime.executor": "Run",
-    "Application.DataTimeEmJava.executor": "Run",
+    "Application.CalcDate.executor": "Run",
+    "Application.ConcatVariavel.executor": "Run",
+    "Application.Constr.executor": "Run",
+    "Application.DateNsc.executor": "Run",
+    "Application.Enca.executor": "Run",
+    "Application.ExempEstrutCondi.executor": "Run",
+    "Application.ExempExpressLogic.executor": "Run",
+    "Application.ExempJavaCast1.executor": "Run",
+    "Application.ExempJavaCasting.executor": "Run",
+    "Application.ExemploExpressAritmet.executor": "Run",
+    "Application.FacEnquan.executor": "Run",
+    "Application.FormatacaoDeVariaveis.executor": "Run",
+    "Application.FuncMatem.executor": "Run",
     "Application.InstancDataTime.executor": "Run",
+    "Application.LogicaDeProgramacao.executor": "Run",
+    "Application.MembEstat.executor": "Run",
+    "Application.OperAtibCumul.executor": "Run",
+    "Application.OperBitw.executor": "Run",
+    "Application.Para.executor": "Run",
+    "Application.SemOrienObj.executor": "Run",
+    "Application.Sintaxe.executor": "Run",
+    "Application.Sobre.executor": "Run",
+    "Application.Stock.executor": "Run",
+    "Application.VariavComPontoFlutuante.executor": "Run",
+    "Application.Vec.executor": "Run",
+    "Application.Vecto.executor": "Run",
+    "Application.procJavaCasting.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConvertDateTime">
-    <configuration name="ConvertDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.ConvertDateTime" />
+  <component name="RunManager" selected="Application.DateNsc">
+    <configuration name="CalcDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.CalcDate" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +100,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTimeEmJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.DataTimeEmJava" />
+    <configuration name="DateNsc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.DateNsc" />
       <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.generics.topicosavancadosemjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstancDataTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.topicosavancadosemjava.InstancDataTime" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.topicosavancadosemjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.arrays.Vec" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vecto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.generics.arrays.Vecto" />
+      <module name="UdemyNelioAlvesJavaCompleto2023PooProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.generics.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,15 +154,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertDateTime" />
-        <item itemvalue="Application.DataTimeEmJava" />
+        <item itemvalue="Application.DateNsc" />
+        <item itemvalue="Application.CalcDate" />
+        <item itemvalue="Application.InstancDataTime" />
+        <item itemvalue="Application.Vec" />
+        <item itemvalue="Application.Vecto" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-e1d2075fd9a7-d4e022e8" />
+        <option value="jdk-20.0.2-corretto-20.0.2.1-f644763e9732-27d99999" />
       </set>
     </attachedChunks>
   </component>
@@ -217,23 +290,269 @@
       <option name="project" value="LOCAL" />
       <updated>1703182449667</updated>
     </task>
-    <task id="LOCAL-00017" summary="Add coment na class InstancDataTime">
-      <option name="closed" value="true" />
-      <created>1705174504043</created>
+    <task id="LOCAL-00017" summary="Corrigindo alguns detalhes na logica de programação!">
+      <created>1703183011992</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1705174504043</updated>
+      <updated>1703183011992</updated>
     </task>
-    <task id="LOCAL-00018" summary="Add coment na class DataTimeEmJava.java">
-      <option name="closed" value="true" />
-      <created>1705177834090</created>
+    <task id="LOCAL-00018" summary="Corrigindo alguns detalhes na logica de programação!">
+      <created>1703183032471</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1705177834090</updated>
+      <updated>1703183032471</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00079" summary="adic coment na class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704369856554</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369856554</updated>
+    </task>
+    <task id="LOCAL-00080" summary="adic coment na class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704369864451</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369864452</updated>
+    </task>
+    <task id="LOCAL-00081" summary="adic coment na class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704369920294</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1704369920294</updated>
+    </task>
+    <task id="LOCAL-00082" summary="ajust a class triangle">
+      <option name="closed" value="true" />
+      <created>1704371081698</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1704371081698</updated>
+    </task>
+    <task id="LOCAL-00083" summary="ajust a class tres atribu">
+      <option name="closed" value="true" />
+      <created>1704371127082</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1704371127082</updated>
+    </task>
+    <task id="LOCAL-00084" summary="ajust a class Stock e adic coment">
+      <option name="closed" value="true" />
+      <created>1704375581532</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1704375581532</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Memb Estatic">
+      <option name="closed" value="true" />
+      <created>1704378354774</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378354774</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Memb Estatic, method static">
+      <option name="closed" value="true" />
+      <created>1704378718988</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378718988</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Memb Estatic, method static">
+      <option name="closed" value="true" />
+      <created>1704378927096</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378927096</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Construtor e this">
+      <option name="closed" value="true" />
+      <created>1704465106877</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1704465106877</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Construtor e this. coment!">
+      <option name="closed" value="true" />
+      <created>1704468948329</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1704468948329</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Corrig a class construtor e this. coment!">
+      <option name="closed" value="true" />
+      <created>1704470952779</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1704470952779</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Class sobre carga em java">
+      <option name="closed" value="true" />
+      <created>1704472627074</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1704472627074</updated>
+    </task>
+    <task id="LOCAL-00092" summary="add class sobre carga em java">
+      <option name="closed" value="true" />
+      <created>1704473124416</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1704473124417</updated>
+    </task>
+    <task id="LOCAL-00093" summary="mudan as class sobre carga em java de package">
+      <option name="closed" value="true" />
+      <created>1704473208360</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1704473208360</updated>
+    </task>
+    <task id="LOCAL-00094" summary="class encapsulamentos">
+      <option name="closed" value="true" />
+      <created>1704474596001</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1704474596001</updated>
+    </task>
+    <task id="LOCAL-00095" summary="class vector and comments">
+      <option name="closed" value="true" />
+      <created>1704720449517</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1704720449518</updated>
+    </task>
+    <task id="LOCAL-00096" summary="class vector with sobcarg and comments">
+      <option name="closed" value="true" />
+      <created>1704723808931</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1704723808931</updated>
+    </task>
+    <task id="LOCAL-00097" summary="boxing and UnBoxing">
+      <option name="closed" value="true" />
+      <created>1704728397935</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728397935</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Wraper with comment">
+      <option name="closed" value="true" />
+      <created>1704728765966</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728765966</updated>
+    </task>
+    <task id="LOCAL-00099" summary="corrig the comment">
+      <option name="closed" value="true" />
+      <created>1704728797024</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728797024</updated>
+    </task>
+    <task id="LOCAL-00100" summary="corrig the comment">
+      <option name="closed" value="true" />
+      <created>1704728827066</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1704728827066</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Add comment">
+      <option name="closed" value="true" />
+      <created>1704729015187</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1704729015187</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Add comment">
+      <option name="closed" value="true" />
+      <created>1704729107185</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1704729107186</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Add comment">
+      <option name="closed" value="true" />
+      <created>1704730553409</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1704730553409</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Collect and comment">
+      <option name="closed" value="true" />
+      <created>1704731884454</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1704731884454</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Interface List and comment">
+      <option name="closed" value="true" />
+      <created>1704735125423</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1704735125423</updated>
+    </task>
+    <task id="LOCAL-00106" summary="InstancDataTime em Java">
+      <option name="closed" value="true" />
+      <created>1705086239095</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1705086239096</updated>
+    </task>
+    <task id="LOCAL-00107" summary="InstancDataTime em Java 02">
+      <option name="closed" value="true" />
+      <created>1705087402324</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1705087402324</updated>
+    </task>
+    <task id="LOCAL-00108" summary="InstancDataTime em Java 02">
+      <option name="closed" value="true" />
+      <created>1705087554946</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1705087554946</updated>
+    </task>
+    <task id="LOCAL-00109" summary="InstancDataTime em Java 02">
+      <option name="closed" value="true" />
+      <created>1705087636672</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1705087636672</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,20 +597,36 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Expressões aritiméticas um pouco diferente!!!" />
-    <MESSAGE value="Declaração de Variaveis um pouco diferente!!!" />
-    <MESSAGE value="Correção das variaveis!" />
-    <MESSAGE value="Variavel recendo pelo nput!" />
-    <MESSAGE value="Variavel recendo pelo input!" />
-    <MESSAGE value="inserido a conversão de string para char!" />
-    <MESSAGE value="Logica de programação!" />
-    <MESSAGE value="implementando mais na logica de programação!" />
-    <MESSAGE value="Corrigindo algun detales na na logica de programação!" />
-    <MESSAGE value="Corrigindo alguns detales na logica de programação!" />
-    <MESSAGE value="Corrigindo alguns detalhes na logica de programação!" />
-    <MESSAGE value="Confirmando alguns detalhes na logica de programação!" />
-    <MESSAGE value="Add coment na class InstancDataTime" />
-    <MESSAGE value="Add coment na class DataTimeEmJava.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add coment na class DataTimeEmJava.java" />
+    <MESSAGE value="corrig coment atribut" />
+    <MESSAGE value="adic coment na class SemOrient" />
+    <MESSAGE value="adic coment na class tres atribu" />
+    <MESSAGE value="ajust a class triangle" />
+    <MESSAGE value="ajust a class tres atribu" />
+    <MESSAGE value="ajust a class Stock e adic coment" />
+    <MESSAGE value="Memb Estatic" />
+    <MESSAGE value="Memb Estatic, method static" />
+    <MESSAGE value="Construtor e this" />
+    <MESSAGE value="Construtor e this. coment!" />
+    <MESSAGE value="Corrig a class construtor e this. coment!" />
+    <MESSAGE value="Class sobre carga em java" />
+    <MESSAGE value="add class sobre carga em java" />
+    <MESSAGE value="mudan as class sobre carga em java de package" />
+    <MESSAGE value="class encapsulamentos" />
+    <MESSAGE value="class vector and comments" />
+    <MESSAGE value="class vector with sobcarg and comments" />
+    <MESSAGE value="boxing and UnBoxing" />
+    <MESSAGE value="Wraper with comment" />
+    <MESSAGE value="corrig the comment" />
+    <MESSAGE value="Add comment" />
+    <MESSAGE value="Collect and comment" />
+    <MESSAGE value="Interface List and comment" />
+    <MESSAGE value="InstancDataTime em Java" />
+    <MESSAGE value="InstancDataTime em Java 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="InstancDataTime em Java 02" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.generics.estruturacondicional.*</FILTER>
+    </SUITE>
   </component>
 </project>
