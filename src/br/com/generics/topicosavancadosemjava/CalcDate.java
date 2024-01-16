@@ -39,7 +39,7 @@ public class CalcDate {
 
         System.out.println("A sua idade e: "
                 + year.format(DateTimeFormatter.ofPattern("yy"))
-                + " \nVoce nasceu no ano de : "
+                + "\nVoce nasceu no ano de: "
                 + dtNsc
                 + "\nEstamos no ano de: "
                 + dtHj.format(DateTimeFormatter.ofPattern("yyyy")));
