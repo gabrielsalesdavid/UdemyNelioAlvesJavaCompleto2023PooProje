@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="add coment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/CalulosComData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/generics/topicosavancadosemjava/CalulosComData.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5c9ead6-18b4-428f-a77f-779612bfa908" name="Changes" comment="add coment calculosComData" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -302,14 +299,6 @@
       <option name="project" value="LOCAL" />
       <updated>1703183032471</updated>
     </task>
-    <task id="LOCAL-00083" summary="ajust a class tres atribu">
-      <option name="closed" value="true" />
-      <created>1704371127082</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1704371127082</updated>
-    </task>
     <task id="LOCAL-00084" summary="ajust a class Stock e adic coment">
       <option name="closed" value="true" />
       <created>1704375581532</created>
@@ -550,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705417256346</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="add coment calculosComData">
+      <option name="closed" value="true" />
+      <created>1705494252737</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1705494252738</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -595,7 +592,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ajust a class Stock e adic coment" />
     <MESSAGE value="Memb Estatic" />
     <MESSAGE value="Memb Estatic, method static" />
     <MESSAGE value="Construtor e this" />
@@ -620,7 +616,8 @@
     <MESSAGE value="CalcDate add SysOut" />
     <MESSAGE value="CalcDate add coment" />
     <MESSAGE value="add coment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add coment" />
+    <MESSAGE value="add coment calculosComData" />
+    <option name="LAST_COMMIT_MESSAGE" value="add coment calculosComData" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UdemyNelioAlvesJavaCompleto2023PooProje$LogicaDeProgramacao.ic" NAME="LogicaDeProgramacao Coverage Results" MODIFIED="1703678029519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

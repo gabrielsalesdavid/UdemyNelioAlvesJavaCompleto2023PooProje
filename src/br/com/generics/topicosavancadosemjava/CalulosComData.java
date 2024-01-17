@@ -58,8 +58,9 @@ public class CalulosComData {
 
         /*
         Duration.between e uma class/method. uma e a class final e static. que retorna a quantidade do obj.
-        .atTime e uma class/method que retorna HH e mm.
+        .atTime e uma class/method que retorna/converte HH e mm para LocalDateTime.
         .toLocalDate().atTime e uma class/method que convete de datalocal para hora.
+        .atStartOfDay() convert para o inicio do dia. ou seja, a meia noite.
          */
         Duration dr01 = Duration.between(pastWeekLocalDate.atTime(0, 0), ldt01.toLocalDate().atTime(0, 0));
         Duration dr02 = Duration.between(pastWeekLocalDateTime, ldt01);
