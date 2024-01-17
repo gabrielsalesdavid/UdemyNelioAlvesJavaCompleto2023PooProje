@@ -33,6 +33,10 @@ public class DateJava8 {
         Date d02 = sdf02.parse("25/06/2018 15:42:07");
         Date d03 = Date.from(Instant.parse("2018-06-25T15:42:07Z"));
 
+        /*
+        SysOut e uma saida de dados que parametriza dados/obj.
+        nomeDaClass/Method.format(nomeDaClass). .format forca o dado/obj de saida que seja feito como esta declarada...
+         */
         System.out.println(sdf02.format(d01));
         System.out.println(sdf02.format(d02));
         System.out.println(sdf02.format(n01));
@@ -40,5 +44,7 @@ public class DateJava8 {
         System.out.println(sdf02.format(n03));
         System.out.println(sdf02.format(n04));
         System.out.println(sdf02.format(d03));
+
+        //Obs.: Varivaeis sao codigo que nao possui chaves. Ou seja, Date d01 = new Date(); e uma variavel!
     }
 }
